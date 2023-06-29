@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(38, 90, 99)
+}
+
+path {
+    stroke: rgb(159, 157, 157) ;
+    fill: rgb(151, 203, 243);
+}
+
+path:hover {
+    fill:pink;
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+}
+
+svg {
+    background-color: white;
+    border-radius: 15%;
+}
+
+#map-container {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    /* background-image: url("/Users/michelleli/Downloads/bg.jpeg"); */
+}
+
+header {
+    font-size: 50px;
+    font-weight: 700;
+}
+#popup {
+    position: absolute;
+    display: none;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    z-index: 9999;
+  }
+
+/* .popped {
+
+} */
