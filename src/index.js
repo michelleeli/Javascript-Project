@@ -49,9 +49,9 @@ function updatePath() {
     let index = getIndex(path.getAttribute("title"))
     if (index >= 1 && index < 2) {
       path.classList.add("one")
-    } else if (index >= 1 && index < 2) {
-      path.classList.add("two")
     } else if (index >= 2 && index < 3) {
+      path.classList.add("two")
+    } else if (index >= 3 && index < 4) {
       path.classList.add("three")
     } else if (index >= 4 && index < 5) {
       path.classList.add("four")

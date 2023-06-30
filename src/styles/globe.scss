@@ -6,52 +6,51 @@ h1 {
     color: rgb(38, 90, 99)
 }
 .one {
-    fill: rgb(205, 221, 228);
-    background-color: rgb(234, 241, 244);
+    fill: rgba(189, 169, 50, 0.2);
+    background-color: rgba(189, 169, 50, 0.2);
 }
 .two {
-    fill: rgb(174, 195, 204);
-    background-color: rgb(234, 241, 244);
+    fill: rgba(255, 159, 64, 0.2);
+    background-color: rgba(255, 159, 64, 0.2);
 }
 
 .three {
-    fill: rgb(166, 184, 193);
-    background-color: rgb(234, 241, 244);
+    fill: rgba(255, 205, 86, 0.2);
+    background-color: rgba(255, 205, 86, 0.2);
 }
 
 .four {
-    fill: rgb(111, 156, 175);
-    background-color: rgb(196, 227, 240);
+    fill: rgba(75, 192, 192, 0.2);
+    background-color: rgba(75, 192, 192, 0.2);
 }
 
 .five {
-    fill: rgb(111, 156, 175);
-    background-color: rgb(196, 227, 240);
+    fill: rgba(54, 162, 235, 0.2);
+    background-color:rgba(54, 162, 235, 0.2);
 }
 
 .six {
-    fill: rgb(76, 129, 152);
-    background-color: rgb(138, 210, 240);
+    fill: rgba(153, 102, 255, 0.2);
+    background-color: rgba(153, 102, 255, 0.2);
 }
 
 .seven {
-    fill: rgb(36, 82, 101);
-    background-color: rgb(55, 180, 233);
+    fill: rgb(183, 219, 224);
+    background-color:  rgb(183, 219, 224);
 }
 
 .eight {
-    fill: rgb(34, 114, 176);
-    background-color: rgb(34, 114, 176);
+    fill: rgba(255, 99, 132, 0.2);
+    background-color: rgba(255, 99, 132, 0.2);
 }
 
 .none {
-    fill: rgb(208, 204, 204);
-    background-color: grey;
+    fill: rgba(201, 203, 207, 0.2);
+    background-color: rgba(201, 203, 207, 0.2);
 }
 
 path {
     stroke:rgb(186, 184, 184) ;
-    // fill: rgb(151, 203, 243);
 }
 
 path:hover {
@@ -62,14 +61,16 @@ path:hover {
 svg {
     // background-color: rgb(15, 18, 65);
     // background-size: 100px 300px;
+    padding: 0;
     border: 1px solid white;
     border-radius: 15;
     padding: 10px;
     transform: translateX(-130px) scale(0.7);
+    z-index: 10;
 }
 
 body {
-    background:rgb(246, 245, 245);
+    // background: rgb(6, 7, 54);
     // rgb(15, 18, 65)
 }
 
@@ -138,4 +139,23 @@ body {
 
 .markers {
     transform: translateX(75px)
+}
+
+.diagrams {
+    display: flex;
+    flex-wrap: none;
+}
+
+.mapDiv {
+    width: 800px;
+}
+
+#chart {
+    height:800px;
+    width: 600px;
+    transform: translateY(200px);
+}
+
+.mapfeatures{
+    transform: translateY(-100px)
 }
