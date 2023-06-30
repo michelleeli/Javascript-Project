@@ -1,0 +1,10022 @@
+[
+ {
+   "Country": "Afghanistan",
+   "Year": 2013,
+   "Index": "4.04",
+   "Rank": "143"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2015,
+   "Index": "3.575",
+   "Rank": "153"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2016,
+   "Index": "3.36",
+   "Rank": "154"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2017,
+   "Index": "3.794",
+   "Rank": "141"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2018,
+   "Index": "3.632",
+   "Rank": "145"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2019,
+   "Index": "3.203",
+   "Rank": "154"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2020,
+   "Index": "2.567",
+   "Rank": "153"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2021,
+   "Index": "2.523",
+   "Rank": "149"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2022,
+   "Index": "2.404",
+   "Rank": "146"
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2023,
+   "Index": "1.859",
+   "Rank": "137"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2013,
+   "Index": "5.55",
+   "Rank": "62"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2015,
+   "Index": "4.959",
+   "Rank": "95"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2016,
+   "Index": "4.655",
+   "Rank": "109"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2017,
+   "Index": "4.644",
+   "Rank": "109"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2018,
+   "Index": "4.586",
+   "Rank": "112"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2019,
+   "Index": "4.719",
+   "Rank": "107"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2020,
+   "Index": "4.883",
+   "Rank": "105"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2021,
+   "Index": "5.117",
+   "Rank": "93"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2022,
+   "Index": "5.199",
+   "Rank": "90"
+ },
+ {
+   "Country": "Albania",
+   "Year": 2023,
+   "Index": "5.277",
+   "Rank": "83"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2013,
+   "Index": "5.422",
+   "Rank": "73"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2015,
+   "Index": "5.605",
+   "Rank": "68"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2016,
+   "Index": "6.355",
+   "Rank": "38"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2017,
+   "Index": "5.872",
+   "Rank": "53"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2018,
+   "Index": "5.295",
+   "Rank": "84"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2019,
+   "Index": "5.211",
+   "Rank": "88"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2020,
+   "Index": "5.005",
+   "Rank": "100"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2021,
+   "Index": "4.887",
+   "Rank": "109"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2022,
+   "Index": "5.122",
+   "Rank": "96"
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2023,
+   "Index": "5.329",
+   "Rank": "81"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2013,
+   "Index": "5.589",
+   "Rank": "61"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2015,
+   "Index": "4.033",
+   "Rank": "137"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2016,
+   "Index": "3.866",
+   "Rank": "141"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2017,
+   "Index": "3.795",
+   "Rank": "140"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2018,
+   "Index": "3.795",
+   "Rank": "142"
+ },
+ {
+   "Country": "Angola",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Angola",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Angola",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Angola",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Angola",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2013,
+   "Index": "6.562",
+   "Rank": "29"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2015,
+   "Index": "6.574",
+   "Rank": "30"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2016,
+   "Index": "6.65",
+   "Rank": "26"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2017,
+   "Index": "6.599",
+   "Rank": "24"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2018,
+   "Index": "6.388",
+   "Rank": "29"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2019,
+   "Index": "6.086",
+   "Rank": "47"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2020,
+   "Index": "5.975",
+   "Rank": "55"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2021,
+   "Index": "5.929",
+   "Rank": "57"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2022,
+   "Index": "5.967",
+   "Rank": "57"
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2023,
+   "Index": "6.024",
+   "Rank": "52"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2013,
+   "Index": "4.316",
+   "Rank": "128"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2015,
+   "Index": "4.35",
+   "Rank": "127"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2016,
+   "Index": "4.36",
+   "Rank": "121"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2017,
+   "Index": "4.376",
+   "Rank": "121"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2018,
+   "Index": "4.321",
+   "Rank": "129"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2019,
+   "Index": "4.559",
+   "Rank": "116"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2020,
+   "Index": "4.677",
+   "Rank": "116"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2021,
+   "Index": "5.283",
+   "Rank": "86"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2022,
+   "Index": "5.399",
+   "Rank": "82"
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2023,
+   "Index": "5.342",
+   "Rank": "79"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2013,
+   "Index": "7.35",
+   "Rank": "10"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2015,
+   "Index": "7.284",
+   "Rank": "10"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2016,
+   "Index": "7.313",
+   "Rank": "9"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2017,
+   "Index": "7.284",
+   "Rank": "9"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2018,
+   "Index": "7.272",
+   "Rank": "10"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2019,
+   "Index": "7.228",
+   "Rank": "11"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2020,
+   "Index": "7.223",
+   "Rank": "12"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2021,
+   "Index": "7.183",
+   "Rank": "11"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2022,
+   "Index": "7.162",
+   "Rank": "12"
+ },
+ {
+   "Country": "Australia",
+   "Year": 2023,
+   "Index": "7.095",
+   "Rank": "12"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2013,
+   "Index": "7.369",
+   "Rank": "8"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2015,
+   "Index": "7.2",
+   "Rank": "13"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2016,
+   "Index": "7.119",
+   "Rank": "12"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2017,
+   "Index": "7.006",
+   "Rank": "13"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2018,
+   "Index": "7.139",
+   "Rank": "12"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2019,
+   "Index": "7.246",
+   "Rank": "10"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2020,
+   "Index": "7.294",
+   "Rank": "9"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2021,
+   "Index": "7.268",
+   "Rank": "10"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2022,
+   "Index": "7.163",
+   "Rank": "11"
+ },
+ {
+   "Country": "Austria",
+   "Year": 2023,
+   "Index": "7.097",
+   "Rank": "11"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2013,
+   "Index": "4.604",
+   "Rank": "116"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2015,
+   "Index": "5.212",
+   "Rank": "80"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2016,
+   "Index": "5.291",
+   "Rank": "81"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2017,
+   "Index": "5.234",
+   "Rank": "85"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2018,
+   "Index": "5.201",
+   "Rank": "87"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2019,
+   "Index": "5.208",
+   "Rank": "90"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2020,
+   "Index": "5.165",
+   "Rank": "89"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2021,
+   "Index": "5.171",
+   "Rank": "90"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2022,
+   "Index": "5.173",
+   "Rank": "92"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2013,
+   "Index": "5.312",
+   "Rank": "79"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2015,
+   "Index": "5.96",
+   "Rank": "49"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2016,
+   "Index": "6.218",
+   "Rank": "42"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2017,
+   "Index": "6.087",
+   "Rank": "41"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2018,
+   "Index": "6.105",
+   "Rank": "43"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2019,
+   "Index": "6.199",
+   "Rank": "37"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2020,
+   "Index": "6.227",
+   "Rank": "40"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2021,
+   "Index": "6.647",
+   "Rank": "22"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2022,
+   "Index": "6.647",
+   "Rank": "21"
+ },
+ {
+   "Country": "Bahrain",
+   "Year": 2023,
+   "Index": "6.173",
+   "Rank": "42"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2013,
+   "Index": "4.804",
+   "Rank": "108"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2015,
+   "Index": "4.694",
+   "Rank": "109"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2016,
+   "Index": "4.643",
+   "Rank": "110"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2017,
+   "Index": "4.608",
+   "Rank": "110"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2018,
+   "Index": "4.5",
+   "Rank": "115"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2019,
+   "Index": "4.456",
+   "Rank": "125"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2020,
+   "Index": "4.833",
+   "Rank": "107"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2021,
+   "Index": "5.025",
+   "Rank": "101"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2022,
+   "Index": "5.155",
+   "Rank": "94"
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2023,
+   "Index": "4.282",
+   "Rank": "118"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2013,
+   "Index": "5.504",
+   "Rank": "66"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2015,
+   "Index": "5.813",
+   "Rank": "59"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2016,
+   "Index": "5.802",
+   "Rank": "61"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2017,
+   "Index": "5.569",
+   "Rank": "67"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2018,
+   "Index": "5.483",
+   "Rank": "73"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2019,
+   "Index": "5.323",
+   "Rank": "81"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2020,
+   "Index": "5.54",
+   "Rank": "75"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2021,
+   "Index": "5.534",
+   "Rank": "75"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2022,
+   "Index": "5.821",
+   "Rank": "65"
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2013,
+   "Index": "6.967",
+   "Rank": "21"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2015,
+   "Index": "6.937",
+   "Rank": "19"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2016,
+   "Index": "6.929",
+   "Rank": "18"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2017,
+   "Index": "6.891",
+   "Rank": "17"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2018,
+   "Index": "6.927",
+   "Rank": "16"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2019,
+   "Index": "6.923",
+   "Rank": "18"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2020,
+   "Index": "6.864",
+   "Rank": "20"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2021,
+   "Index": "6.834",
+   "Rank": "20"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2022,
+   "Index": "6.805",
+   "Rank": "19"
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2023,
+   "Index": "6.859",
+   "Rank": "17"
+ },
+ {
+   "Country": "Belize",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2016,
+   "Index": "5.956",
+   "Rank": "52"
+ },
+ {
+   "Country": "Belize",
+   "Year": 2017,
+   "Index": "5.956",
+   "Rank": "50"
+ },
+ {
+   "Country": "Belize",
+   "Year": 2018,
+   "Index": "5.956",
+   "Rank": "49"
+ },
+ {
+   "Country": "Belize",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Belize",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Benin",
+   "Year": 2013,
+   "Index": "3.528",
+   "Rank": "155"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2015,
+   "Index": "3.34",
+   "Rank": "155"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2016,
+   "Index": "3.484",
+   "Rank": "153"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2017,
+   "Index": "3.657",
+   "Rank": "143"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2018,
+   "Index": "4.141",
+   "Rank": "136"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2019,
+   "Index": "4.883",
+   "Rank": "102"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2020,
+   "Index": "5.216",
+   "Rank": "86"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2021,
+   "Index": "5.045",
+   "Rank": "99"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2022,
+   "Index": "4.623",
+   "Rank": "115"
+ },
+ {
+   "Country": "Benin",
+   "Year": 2023,
+   "Index": "4.374",
+   "Rank": "116"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2015,
+   "Index": "5.253",
+   "Rank": "79"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2016,
+   "Index": "5.196",
+   "Rank": "84"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2017,
+   "Index": "5.011",
+   "Rank": "97"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2018,
+   "Index": "5.082",
+   "Rank": "97"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2019,
+   "Index": "5.082",
+   "Rank": "95"
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2013,
+   "Index": "5.857",
+   "Rank": "50"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2015,
+   "Index": "5.89",
+   "Rank": "51"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2016,
+   "Index": "5.822",
+   "Rank": "59"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2017,
+   "Index": "5.823",
+   "Rank": "58"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2018,
+   "Index": "5.752",
+   "Rank": "62"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2019,
+   "Index": "5.779",
+   "Rank": "61"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2020,
+   "Index": "5.747",
+   "Rank": "65"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2021,
+   "Index": "5.716",
+   "Rank": "69"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2022,
+   "Index": "5.6",
+   "Rank": "71"
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2023,
+   "Index": "5.684",
+   "Rank": "69"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2013,
+   "Index": "4.813",
+   "Rank": "107"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2015,
+   "Index": "4.949",
+   "Rank": "96"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2016,
+   "Index": "5.163",
+   "Rank": "87"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2017,
+   "Index": "5.182",
+   "Rank": "90"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2018,
+   "Index": "5.129",
+   "Rank": "93"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2019,
+   "Index": "5.386",
+   "Rank": "78"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2020,
+   "Index": "5.674",
+   "Rank": "69"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2021,
+   "Index": "5.813",
+   "Rank": "64"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2022,
+   "Index": "5.768",
+   "Rank": "67"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2023,
+   "Index": "5.633",
+   "Rank": "71"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2013,
+   "Index": "3.97",
+   "Rank": "145"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2015,
+   "Index": "4.332",
+   "Rank": "128"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2016,
+   "Index": "3.974",
+   "Rank": "137"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2017,
+   "Index": "3.766",
+   "Rank": "142"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2018,
+   "Index": "3.59",
+   "Rank": "146"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2019,
+   "Index": "3.488",
+   "Rank": "148"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2020,
+   "Index": "3.479",
+   "Rank": "147"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2021,
+   "Index": "3.467",
+   "Rank": "146"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2022,
+   "Index": "3.471",
+   "Rank": "142"
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2023,
+   "Index": "3.435",
+   "Rank": "132"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2013,
+   "Index": "6.849",
+   "Rank": "24"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2015,
+   "Index": "6.983",
+   "Rank": "16"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2016,
+   "Index": "6.952",
+   "Rank": "17"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2017,
+   "Index": "6.635",
+   "Rank": "22"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2018,
+   "Index": "6.419",
+   "Rank": "28"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2019,
+   "Index": "6.3",
+   "Rank": "32"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2020,
+   "Index": "6.376",
+   "Rank": "32"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2021,
+   "Index": "6.33",
+   "Rank": "35"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2022,
+   "Index": "6.293",
+   "Rank": "38"
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2023,
+   "Index": "6.125",
+   "Rank": "49"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2013,
+   "Index": "3.981",
+   "Rank": "144"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2015,
+   "Index": "4.218",
+   "Rank": "134"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2016,
+   "Index": "4.217",
+   "Rank": "129"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2017,
+   "Index": "4.714",
+   "Rank": "105"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2018,
+   "Index": "4.933",
+   "Rank": "100"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2019,
+   "Index": "5.011",
+   "Rank": "97"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2020,
+   "Index": "5.102",
+   "Rank": "96"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2021,
+   "Index": "5.266",
+   "Rank": "88"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2022,
+   "Index": "5.371",
+   "Rank": "85"
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2023,
+   "Index": "5.466",
+   "Rank": "77"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2013,
+   "Index": "4.259",
+   "Rank": "131"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2015,
+   "Index": "3.587",
+   "Rank": "152"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2016,
+   "Index": "3.739",
+   "Rank": "146"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2017,
+   "Index": "4.032",
+   "Rank": "134"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2018,
+   "Index": "4.424",
+   "Rank": "121"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2019,
+   "Index": "4.587",
+   "Rank": "115"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2020,
+   "Index": "4.769",
+   "Rank": "112"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2021,
+   "Index": "4.834",
+   "Rank": "113"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2022,
+   "Index": "4.67",
+   "Rank": "113"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2023,
+   "Index": "4.638",
+   "Rank": "104"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2013,
+   "Index": "3.706",
+   "Rank": "153"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2015,
+   "Index": "2.905",
+   "Rank": "157"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2016,
+   "Index": "2.905",
+   "Rank": "157"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2017,
+   "Index": "2.905",
+   "Rank": "154"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2018,
+   "Index": "2.905",
+   "Rank": "156"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2019,
+   "Index": "3.775",
+   "Rank": "145"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2020,
+   "Index": "3.775",
+   "Rank": "140"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2021,
+   "Index": "3.775",
+   "Rank": "140"
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2013,
+   "Index": "4.067",
+   "Rank": "140"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2015,
+   "Index": "3.819",
+   "Rank": "145"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2016,
+   "Index": "3.907",
+   "Rank": "140"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2017,
+   "Index": "4.168",
+   "Rank": "129"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2018,
+   "Index": "4.433",
+   "Rank": "120"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2019,
+   "Index": "4.7",
+   "Rank": "109"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2020,
+   "Index": "4.848",
+   "Rank": "106"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2021,
+   "Index": "4.83",
+   "Rank": "114"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2022,
+   "Index": "4.64",
+   "Rank": "114"
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2023,
+   "Index": "4.393",
+   "Rank": "115"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2013,
+   "Index": "4.42",
+   "Rank": "122"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2015,
+   "Index": "4.252",
+   "Rank": "133"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2016,
+   "Index": "4.513",
+   "Rank": "114"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2017,
+   "Index": "4.695",
+   "Rank": "107"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2018,
+   "Index": "4.975",
+   "Rank": "99"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2019,
+   "Index": "5.044",
+   "Rank": "96"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2020,
+   "Index": "5.085",
+   "Rank": "98"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2021,
+   "Index": "5.142",
+   "Rank": "91"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2022,
+   "Index": "5.048",
+   "Rank": "102"
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2023,
+   "Index": "4.973",
+   "Rank": "96"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2013,
+   "Index": "7.477",
+   "Rank": "6"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2015,
+   "Index": "7.427",
+   "Rank": "5"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2016,
+   "Index": "7.404",
+   "Rank": "6"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2017,
+   "Index": "7.316",
+   "Rank": "7"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2018,
+   "Index": "7.328",
+   "Rank": "7"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2019,
+   "Index": "7.278",
+   "Rank": "9"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2020,
+   "Index": "7.232",
+   "Rank": "11"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2021,
+   "Index": "7.103",
+   "Rank": "14"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2022,
+   "Index": "7.025",
+   "Rank": "15"
+ },
+ {
+   "Country": "Canada",
+   "Year": 2023,
+   "Index": "6.961",
+   "Rank": "13"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2013,
+   "Index": "3.623",
+   "Rank": "154"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2015,
+   "Index": "3.678",
+   "Rank": "148"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2017,
+   "Index": "2.693",
+   "Rank": "155"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2018,
+   "Index": "3.083",
+   "Rank": "155"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2019,
+   "Index": "3.083",
+   "Rank": "155"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2020,
+   "Index": "3.476",
+   "Rank": "149"
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Chad",
+   "Year": 2013,
+   "Index": "4.056",
+   "Rank": "141"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2015,
+   "Index": "3.667",
+   "Rank": "149"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2016,
+   "Index": "3.763",
+   "Rank": "144"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2017,
+   "Index": "3.936",
+   "Rank": "137"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2018,
+   "Index": "4.301",
+   "Rank": "131"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2019,
+   "Index": "4.35",
+   "Rank": "132"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2020,
+   "Index": "4.423",
+   "Rank": "127"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2021,
+   "Index": "4.355",
+   "Rank": "128"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2022,
+   "Index": "4.251",
+   "Rank": "130"
+ },
+ {
+   "Country": "Chad",
+   "Year": 2023,
+   "Index": "4.397",
+   "Rank": "114"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2013,
+   "Index": "6.587",
+   "Rank": "28"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2015,
+   "Index": "6.67",
+   "Rank": "27"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2016,
+   "Index": "6.705",
+   "Rank": "24"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2017,
+   "Index": "6.652",
+   "Rank": "20"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2018,
+   "Index": "6.476",
+   "Rank": "25"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2019,
+   "Index": "6.444",
+   "Rank": "26"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2020,
+   "Index": "6.228",
+   "Rank": "39"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2021,
+   "Index": "6.172",
+   "Rank": "43"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2022,
+   "Index": "6.172",
+   "Rank": "44"
+ },
+ {
+   "Country": "Chile",
+   "Year": 2023,
+   "Index": "6.334",
+   "Rank": "35"
+ },
+ {
+   "Country": "China",
+   "Year": 2013,
+   "Index": "4.978",
+   "Rank": "93"
+ },
+ {
+   "Country": "China",
+   "Year": 2015,
+   "Index": "5.14",
+   "Rank": "84"
+ },
+ {
+   "Country": "China",
+   "Year": 2016,
+   "Index": "5.245",
+   "Rank": "83"
+ },
+ {
+   "Country": "China",
+   "Year": 2017,
+   "Index": "5.273",
+   "Rank": "79"
+ },
+ {
+   "Country": "China",
+   "Year": 2018,
+   "Index": "5.246",
+   "Rank": "86"
+ },
+ {
+   "Country": "China",
+   "Year": 2019,
+   "Index": "5.191",
+   "Rank": "93"
+ },
+ {
+   "Country": "China",
+   "Year": 2020,
+   "Index": "5.124",
+   "Rank": "94"
+ },
+ {
+   "Country": "China",
+   "Year": 2021,
+   "Index": "5.339",
+   "Rank": "84"
+ },
+ {
+   "Country": "China",
+   "Year": 2022,
+   "Index": "5.585",
+   "Rank": "72"
+ },
+ {
+   "Country": "China",
+   "Year": 2023,
+   "Index": "5.818",
+   "Rank": "64"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2013,
+   "Index": "6.416",
+   "Rank": "35"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2015,
+   "Index": "6.477",
+   "Rank": "33"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2016,
+   "Index": "6.481",
+   "Rank": "31"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2017,
+   "Index": "6.357",
+   "Rank": "36"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2018,
+   "Index": "6.26",
+   "Rank": "37"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2019,
+   "Index": "6.125",
+   "Rank": "43"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2020,
+   "Index": "6.163",
+   "Rank": "44"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2021,
+   "Index": "6.012",
+   "Rank": "52"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2022,
+   "Index": "5.781",
+   "Rank": "66"
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2023,
+   "Index": "5.63",
+   "Rank": "72"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2013,
+   "Index": "3.851",
+   "Rank": "149"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2015,
+   "Index": "3.956",
+   "Rank": "140"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2016,
+   "Index": "3.956",
+   "Rank": "138"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2019,
+   "Index": "3.973",
+   "Rank": "142"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2020,
+   "Index": "4.289",
+   "Rank": "134"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2021,
+   "Index": "4.289",
+   "Rank": "131"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2022,
+   "Index": "4.609",
+   "Rank": "116"
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2023,
+   "Index": "3.545",
+   "Rank": "130"
+ },
+ {
+   "Country": "Congo",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo",
+   "Year": 2022,
+   "Index": "5.075",
+   "Rank": "99"
+ },
+ {
+   "Country": "Congo",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2013,
+   "Index": "4.297",
+   "Rank": "129"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2015,
+   "Index": "3.989",
+   "Rank": "139"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2016,
+   "Index": "4.236",
+   "Rank": "127"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2017,
+   "Index": "4.291",
+   "Rank": "124"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2018,
+   "Index": "4.559",
+   "Rank": "114"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2019,
+   "Index": "4.812",
+   "Rank": "103"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2020,
+   "Index": "5.194",
+   "Rank": "88"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2021,
+   "Index": "5.342",
+   "Rank": "83"
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo Brazzaville",
+   "Year": 2023,
+   "Index": "5.267",
+   "Rank": "86"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2013,
+   "Index": "4.578",
+   "Rank": "117"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2015,
+   "Index": "4.517",
+   "Rank": "120"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2016,
+   "Index": "4.272",
+   "Rank": "125"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2017,
+   "Index": "4.28",
+   "Rank": "126"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2018,
+   "Index": "4.245",
+   "Rank": "132"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2019,
+   "Index": "4.418",
+   "Rank": "127"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2020,
+   "Index": "4.311",
+   "Rank": "131"
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Congo Kinshasa",
+   "Year": 2023,
+   "Index": "3.207",
+   "Rank": "133"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2013,
+   "Index": "7.257",
+   "Rank": "12"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2015,
+   "Index": "7.226",
+   "Rank": "12"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2016,
+   "Index": "7.087",
+   "Rank": "14"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2017,
+   "Index": "7.079",
+   "Rank": "12"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2018,
+   "Index": "7.072",
+   "Rank": "13"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2019,
+   "Index": "7.167",
+   "Rank": "12"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2020,
+   "Index": "7.121",
+   "Rank": "15"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2021,
+   "Index": "7.069",
+   "Rank": "16"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2022,
+   "Index": "6.582",
+   "Rank": "23"
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2023,
+   "Index": "6.609",
+   "Rank": "23"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2013,
+   "Index": "5.661",
+   "Rank": "58"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2015,
+   "Index": "5.759",
+   "Rank": "62"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2016,
+   "Index": "5.488",
+   "Rank": "74"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2017,
+   "Index": "5.293",
+   "Rank": "77"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2018,
+   "Index": "5.321",
+   "Rank": "82"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2019,
+   "Index": "5.432",
+   "Rank": "75"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2020,
+   "Index": "5.505",
+   "Rank": "79"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2021,
+   "Index": "5.882",
+   "Rank": "60"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2022,
+   "Index": "6.125",
+   "Rank": "47"
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2023,
+   "Index": "6.125",
+   "Rank": "48"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2013,
+   "Index": "6.466",
+   "Rank": "34"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2015,
+   "Index": "5.689",
+   "Rank": "67"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2016,
+   "Index": "5.546",
+   "Rank": "69"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2017,
+   "Index": "5.621",
+   "Rank": "65"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2018,
+   "Index": "5.762",
+   "Rank": "61"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2019,
+   "Index": "6.046",
+   "Rank": "49"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2020,
+   "Index": "6.159",
+   "Rank": "45"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2021,
+   "Index": "6.223",
+   "Rank": "39"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2022,
+   "Index": "6.221",
+   "Rank": "41"
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2023,
+   "Index": "6.13",
+   "Rank": "46"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2013,
+   "Index": "6.29",
+   "Rank": "39"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2015,
+   "Index": "6.505",
+   "Rank": "31"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2016,
+   "Index": "6.596",
+   "Rank": "27"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2017,
+   "Index": "6.609",
+   "Rank": "23"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2018,
+   "Index": "6.711",
+   "Rank": "21"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2019,
+   "Index": "6.852",
+   "Rank": "20"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2020,
+   "Index": "6.911",
+   "Rank": "19"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2021,
+   "Index": "6.965",
+   "Rank": "18"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2022,
+   "Index": "6.92",
+   "Rank": "18"
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2023,
+   "Index": "6.845",
+   "Rank": "18"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2013,
+   "Index": "7.693",
+   "Rank": "1"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2015,
+   "Index": "7.527",
+   "Rank": "3"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2016,
+   "Index": "7.526",
+   "Rank": "1"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2017,
+   "Index": "7.522",
+   "Rank": "2"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2018,
+   "Index": "7.555",
+   "Rank": "3"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2019,
+   "Index": "7.6",
+   "Rank": "2"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2020,
+   "Index": "7.646",
+   "Rank": "2"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2021,
+   "Index": "7.62",
+   "Rank": "2"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2022,
+   "Index": "7.636",
+   "Rank": "2"
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2023,
+   "Index": "7.586",
+   "Rank": "2"
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2013,
+   "Index": "4.69",
+   "Rank": "114"
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2015,
+   "Index": "4.369",
+   "Rank": "126"
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2013,
+   "Index": "4.963",
+   "Rank": "95"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2015,
+   "Index": "4.885",
+   "Rank": "98"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2016,
+   "Index": "5.155",
+   "Rank": "89"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2017,
+   "Index": "5.23",
+   "Rank": "86"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2018,
+   "Index": "5.302",
+   "Rank": "83"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2019,
+   "Index": "5.425",
+   "Rank": "77"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2020,
+   "Index": "5.689",
+   "Rank": "68"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2021,
+   "Index": "5.545",
+   "Rank": "73"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2022,
+   "Index": "5.737",
+   "Rank": "69"
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2023,
+   "Index": "5.569",
+   "Rank": "73"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2013,
+   "Index": "5.865",
+   "Rank": "49"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2015,
+   "Index": "5.975",
+   "Rank": "48"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2016,
+   "Index": "5.976",
+   "Rank": "51"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2017,
+   "Index": "6.008",
+   "Rank": "44"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2018,
+   "Index": "5.973",
+   "Rank": "48"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2019,
+   "Index": "6.028",
+   "Rank": "50"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2020,
+   "Index": "5.925",
+   "Rank": "58"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2021,
+   "Index": "5.764",
+   "Rank": "66"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2022,
+   "Index": "5.533",
+   "Rank": "76"
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2023,
+   "Index": "5.559",
+   "Rank": "74"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2013,
+   "Index": "4.273",
+   "Rank": "130"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2015,
+   "Index": "4.194",
+   "Rank": "135"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2016,
+   "Index": "4.362",
+   "Rank": "120"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2017,
+   "Index": "4.735",
+   "Rank": "104"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2018,
+   "Index": "4.419",
+   "Rank": "122"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2019,
+   "Index": "4.166",
+   "Rank": "137"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2020,
+   "Index": "4.151",
+   "Rank": "138"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2021,
+   "Index": "4.283",
+   "Rank": "132"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2022,
+   "Index": "4.288",
+   "Rank": "129"
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2023,
+   "Index": "4.17",
+   "Rank": "121"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2013,
+   "Index": "5.809",
+   "Rank": "52"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2015,
+   "Index": "6.13",
+   "Rank": "42"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2016,
+   "Index": "6.068",
+   "Rank": "46"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2017,
+   "Index": "6.003",
+   "Rank": "45"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2018,
+   "Index": "6.167",
+   "Rank": "40"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2019,
+   "Index": "6.253",
+   "Rank": "35"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2020,
+   "Index": "6.348",
+   "Rank": "34"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2021,
+   "Index": "6.061",
+   "Rank": "49"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2022,
+   "Index": "6.12",
+   "Rank": "49"
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2023,
+   "Index": "6.122",
+   "Rank": "50"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2013,
+   "Index": "5.426",
+   "Rank": "72"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2015,
+   "Index": "5.429",
+   "Rank": "73"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2016,
+   "Index": "5.517",
+   "Rank": "72"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2017,
+   "Index": "5.611",
+   "Rank": "66"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2018,
+   "Index": "5.739",
+   "Rank": "63"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2019,
+   "Index": "5.893",
+   "Rank": "55"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2020,
+   "Index": "6.022",
+   "Rank": "51"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2021,
+   "Index": "6.189",
+   "Rank": "40"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2022,
+   "Index": "6.341",
+   "Rank": "36"
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2023,
+   "Index": "6.455",
+   "Rank": "31"
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2022,
+   "Index": "4.396",
+   "Rank": "125"
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2013,
+   "Index": "4.561",
+   "Rank": "119"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2015,
+   "Index": "4.512",
+   "Rank": "122"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2016,
+   "Index": "4.508",
+   "Rank": "115"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2017,
+   "Index": "4.46",
+   "Rank": "119"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2018,
+   "Index": "4.35",
+   "Rank": "127"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2019,
+   "Index": "4.286",
+   "Rank": "134"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2020,
+   "Index": "4.186",
+   "Rank": "136"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2021,
+   "Index": "4.275",
+   "Rank": "133"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2022,
+   "Index": "4.241",
+   "Rank": "131"
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2023,
+   "Index": "4.091",
+   "Rank": "124"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2013,
+   "Index": "7.389",
+   "Rank": "7"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2015,
+   "Index": "7.406",
+   "Rank": "6"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2016,
+   "Index": "7.413",
+   "Rank": "5"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2017,
+   "Index": "7.469",
+   "Rank": "5"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2018,
+   "Index": "7.632",
+   "Rank": "1"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2019,
+   "Index": "7.769",
+   "Rank": "1"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2020,
+   "Index": "7.809",
+   "Rank": "1"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2021,
+   "Index": "7.842",
+   "Rank": "1"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2022,
+   "Index": "7.821",
+   "Rank": "1"
+ },
+ {
+   "Country": "Finland",
+   "Year": 2023,
+   "Index": "7.804",
+   "Rank": "1"
+ },
+ {
+   "Country": "France",
+   "Year": 2013,
+   "Index": "6.764",
+   "Rank": "25"
+ },
+ {
+   "Country": "France",
+   "Year": 2015,
+   "Index": "6.575",
+   "Rank": "29"
+ },
+ {
+   "Country": "France",
+   "Year": 2016,
+   "Index": "6.478",
+   "Rank": "32"
+ },
+ {
+   "Country": "France",
+   "Year": 2017,
+   "Index": "6.442",
+   "Rank": "31"
+ },
+ {
+   "Country": "France",
+   "Year": 2018,
+   "Index": "6.489",
+   "Rank": "23"
+ },
+ {
+   "Country": "France",
+   "Year": 2019,
+   "Index": "6.592",
+   "Rank": "24"
+ },
+ {
+   "Country": "France",
+   "Year": 2020,
+   "Index": "6.664",
+   "Rank": "23"
+ },
+ {
+   "Country": "France",
+   "Year": 2021,
+   "Index": "6.69",
+   "Rank": "21"
+ },
+ {
+   "Country": "France",
+   "Year": 2022,
+   "Index": "6.687",
+   "Rank": "20"
+ },
+ {
+   "Country": "France",
+   "Year": 2023,
+   "Index": "6.661",
+   "Rank": "21"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2013,
+   "Index": "4.114",
+   "Rank": "138"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2015,
+   "Index": "3.896",
+   "Rank": "143"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2016,
+   "Index": "4.121",
+   "Rank": "134"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2017,
+   "Index": "4.465",
+   "Rank": "118"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2018,
+   "Index": "4.758",
+   "Rank": "103"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2019,
+   "Index": "4.799",
+   "Rank": "104"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2020,
+   "Index": "4.829",
+   "Rank": "108"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2021,
+   "Index": "4.852",
+   "Rank": "112"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2022,
+   "Index": "4.958",
+   "Rank": "106"
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2023,
+   "Index": "5.035",
+   "Rank": "94"
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2019,
+   "Index": "4.516",
+   "Rank": "120"
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2020,
+   "Index": "4.751",
+   "Rank": "113"
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2021,
+   "Index": "5.051",
+   "Rank": "98"
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2022,
+   "Index": "5.164",
+   "Rank": "93"
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2023,
+   "Index": "4.279",
+   "Rank": "119"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2013,
+   "Index": "4.187",
+   "Rank": "134"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2015,
+   "Index": "4.297",
+   "Rank": "130"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2016,
+   "Index": "4.252",
+   "Rank": "126"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2017,
+   "Index": "4.286",
+   "Rank": "125"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2018,
+   "Index": "4.34",
+   "Rank": "128"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2019,
+   "Index": "4.519",
+   "Rank": "119"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2020,
+   "Index": "4.673",
+   "Rank": "117"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2021,
+   "Index": "4.891",
+   "Rank": "108"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2022,
+   "Index": "4.973",
+   "Rank": "105"
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2023,
+   "Index": "5.109",
+   "Rank": "90"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2013,
+   "Index": "6.672",
+   "Rank": "26"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2015,
+   "Index": "6.75",
+   "Rank": "26"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2016,
+   "Index": "6.994",
+   "Rank": "16"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2017,
+   "Index": "6.951",
+   "Rank": "16"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2018,
+   "Index": "6.965",
+   "Rank": "15"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2019,
+   "Index": "6.985",
+   "Rank": "17"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2020,
+   "Index": "7.076",
+   "Rank": "17"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2021,
+   "Index": "7.155",
+   "Rank": "13"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2022,
+   "Index": "7.034",
+   "Rank": "14"
+ },
+ {
+   "Country": "Germany",
+   "Year": 2023,
+   "Index": "6.892",
+   "Rank": "16"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2013,
+   "Index": "5.091",
+   "Rank": "86"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2015,
+   "Index": "4.633",
+   "Rank": "114"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2016,
+   "Index": "4.276",
+   "Rank": "124"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2017,
+   "Index": "4.12",
+   "Rank": "131"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2018,
+   "Index": "4.657",
+   "Rank": "108"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2019,
+   "Index": "4.996",
+   "Rank": "98"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2020,
+   "Index": "5.148",
+   "Rank": "91"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2021,
+   "Index": "5.088",
+   "Rank": "95"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2022,
+   "Index": "4.872",
+   "Rank": "111"
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2023,
+   "Index": "4.605",
+   "Rank": "107"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2013,
+   "Index": "5.435",
+   "Rank": "70"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2015,
+   "Index": "4.857",
+   "Rank": "102"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2016,
+   "Index": "5.033",
+   "Rank": "99"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2017,
+   "Index": "5.227",
+   "Rank": "87"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2018,
+   "Index": "5.358",
+   "Rank": "79"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2019,
+   "Index": "5.287",
+   "Rank": "82"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2020,
+   "Index": "5.515",
+   "Rank": "77"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2021,
+   "Index": "5.723",
+   "Rank": "68"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2022,
+   "Index": "5.948",
+   "Rank": "58"
+ },
+ {
+   "Country": "Greece",
+   "Year": 2023,
+   "Index": "5.931",
+   "Rank": "58"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2013,
+   "Index": "5.965",
+   "Rank": "47"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2015,
+   "Index": "6.123",
+   "Rank": "43"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2016,
+   "Index": "6.324",
+   "Rank": "39"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2017,
+   "Index": "6.454",
+   "Rank": "29"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2018,
+   "Index": "6.382",
+   "Rank": "30"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2019,
+   "Index": "6.436",
+   "Rank": "27"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2020,
+   "Index": "6.399",
+   "Rank": "29"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2021,
+   "Index": "6.435",
+   "Rank": "30"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2022,
+   "Index": "6.262",
+   "Rank": "39"
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2023,
+   "Index": "6.15",
+   "Rank": "43"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2013,
+   "Index": "3.847",
+   "Rank": "150"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2015,
+   "Index": "3.656",
+   "Rank": "150"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2016,
+   "Index": "3.607",
+   "Rank": "151"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2017,
+   "Index": "3.507",
+   "Rank": "149"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2018,
+   "Index": "3.964",
+   "Rank": "140"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2019,
+   "Index": "4.534",
+   "Rank": "118"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2020,
+   "Index": "4.949",
+   "Rank": "102"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2021,
+   "Index": "4.984",
+   "Rank": "102"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2022,
+   "Index": "4.891",
+   "Rank": "109"
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2023,
+   "Index": "5.072",
+   "Rank": "91"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2013,
+   "Index": "4.341",
+   "Rank": "126"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2015,
+   "Index": "4.518",
+   "Rank": "119"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2016,
+   "Index": "4.028",
+   "Rank": "136"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2017,
+   "Index": "3.603",
+   "Rank": "145"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2018,
+   "Index": "3.582",
+   "Rank": "148"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2019,
+   "Index": "3.597",
+   "Rank": "147"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2020,
+   "Index": "3.721",
+   "Rank": "142"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2021,
+   "Index": "3.615",
+   "Rank": "143"
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2013,
+   "Index": "5.142",
+   "Rank": "84"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2015,
+   "Index": "4.788",
+   "Rank": "105"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2016,
+   "Index": "4.871",
+   "Rank": "104"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2017,
+   "Index": "5.181",
+   "Rank": "91"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2018,
+   "Index": "5.504",
+   "Rank": "72"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2019,
+   "Index": "5.86",
+   "Rank": "59"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2020,
+   "Index": "5.953",
+   "Rank": "56"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2021,
+   "Index": "5.919",
+   "Rank": "59"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2022,
+   "Index": "6.022",
+   "Rank": "55"
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2023,
+   "Index": "6.023",
+   "Rank": "53"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2013,
+   "Index": "5.523",
+   "Rank": "64"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2015,
+   "Index": "5.474",
+   "Rank": "72"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2016,
+   "Index": "5.458",
+   "Rank": "75"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2017,
+   "Index": "5.472",
+   "Rank": "71"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2018,
+   "Index": "5.43",
+   "Rank": "76"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2019,
+   "Index": "5.43",
+   "Rank": "76"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2020,
+   "Index": "5.51",
+   "Rank": "78"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2021,
+   "Index": "5.477",
+   "Rank": "77"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2022,
+   "Index": "5.425",
+   "Rank": "81"
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2023,
+   "Index": "5.308",
+   "Rank": "82"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2013,
+   "Index": "4.775",
+   "Rank": "110"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2015,
+   "Index": "4.8",
+   "Rank": "104"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2016,
+   "Index": "5.145",
+   "Rank": "91"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2017,
+   "Index": "5.324",
+   "Rank": "75"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2018,
+   "Index": "5.62",
+   "Rank": "69"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2019,
+   "Index": "5.758",
+   "Rank": "62"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2020,
+   "Index": "6",
+   "Rank": "53"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2021,
+   "Index": "5.992",
+   "Rank": "53"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2022,
+   "Index": "6.086",
+   "Rank": "51"
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2023,
+   "Index": "6.041",
+   "Rank": "51"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2013,
+   "Index": "7.355",
+   "Rank": "9"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2015,
+   "Index": "7.561",
+   "Rank": "2"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2016,
+   "Index": "7.501",
+   "Rank": "3"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2017,
+   "Index": "7.504",
+   "Rank": "3"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2018,
+   "Index": "7.494",
+   "Rank": "4"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2019,
+   "Index": "7.554",
+   "Rank": "4"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2020,
+   "Index": "7.504",
+   "Rank": "4"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2021,
+   "Index": "7.554",
+   "Rank": "4"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2022,
+   "Index": "7.557",
+   "Rank": "3"
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2023,
+   "Index": "7.53",
+   "Rank": "3"
+ },
+ {
+   "Country": "India",
+   "Year": 2013,
+   "Index": "4.772",
+   "Rank": "111"
+ },
+ {
+   "Country": "India",
+   "Year": 2015,
+   "Index": "4.565",
+   "Rank": "117"
+ },
+ {
+   "Country": "India",
+   "Year": 2016,
+   "Index": "4.404",
+   "Rank": "118"
+ },
+ {
+   "Country": "India",
+   "Year": 2017,
+   "Index": "4.315",
+   "Rank": "122"
+ },
+ {
+   "Country": "India",
+   "Year": 2018,
+   "Index": "4.19",
+   "Rank": "133"
+ },
+ {
+   "Country": "India",
+   "Year": 2019,
+   "Index": "4.015",
+   "Rank": "140"
+ },
+ {
+   "Country": "India",
+   "Year": 2020,
+   "Index": "3.573",
+   "Rank": "144"
+ },
+ {
+   "Country": "India",
+   "Year": 2021,
+   "Index": "3.819",
+   "Rank": "139"
+ },
+ {
+   "Country": "India",
+   "Year": 2022,
+   "Index": "3.777",
+   "Rank": "136"
+ },
+ {
+   "Country": "India",
+   "Year": 2023,
+   "Index": "4.036",
+   "Rank": "126"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2013,
+   "Index": "5.348",
+   "Rank": "76"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2015,
+   "Index": "5.399",
+   "Rank": "74"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2016,
+   "Index": "5.314",
+   "Rank": "79"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2017,
+   "Index": "5.262",
+   "Rank": "81"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2018,
+   "Index": "5.093",
+   "Rank": "96"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2019,
+   "Index": "5.192",
+   "Rank": "92"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2020,
+   "Index": "5.286",
+   "Rank": "84"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2021,
+   "Index": "5.345",
+   "Rank": "82"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2022,
+   "Index": "5.24",
+   "Rank": "87"
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2023,
+   "Index": "5.277",
+   "Rank": "84"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2013,
+   "Index": "4.643",
+   "Rank": "115"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2015,
+   "Index": "4.686",
+   "Rank": "110"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2016,
+   "Index": "4.813",
+   "Rank": "105"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2017,
+   "Index": "4.692",
+   "Rank": "108"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2018,
+   "Index": "4.707",
+   "Rank": "106"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2019,
+   "Index": "4.548",
+   "Rank": "117"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2020,
+   "Index": "4.672",
+   "Rank": "118"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2021,
+   "Index": "4.721",
+   "Rank": "118"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2022,
+   "Index": "4.888",
+   "Rank": "110"
+ },
+ {
+   "Country": "Iran",
+   "Year": 2023,
+   "Index": "4.876",
+   "Rank": "101"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2013,
+   "Index": "4.817",
+   "Rank": "105"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2015,
+   "Index": "4.677",
+   "Rank": "112"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2016,
+   "Index": "4.575",
+   "Rank": "112"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2017,
+   "Index": "4.497",
+   "Rank": "117"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2018,
+   "Index": "4.456",
+   "Rank": "117"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2019,
+   "Index": "4.437",
+   "Rank": "126"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2020,
+   "Index": "4.785",
+   "Rank": "110"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2021,
+   "Index": "4.854",
+   "Rank": "111"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2022,
+   "Index": "4.941",
+   "Rank": "107"
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2023,
+   "Index": "4.941",
+   "Rank": "98"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2013,
+   "Index": "7.076",
+   "Rank": "18"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2015,
+   "Index": "6.94",
+   "Rank": "18"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2016,
+   "Index": "6.907",
+   "Rank": "19"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2017,
+   "Index": "6.977",
+   "Rank": "15"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2018,
+   "Index": "6.977",
+   "Rank": "14"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2019,
+   "Index": "7.021",
+   "Rank": "16"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2020,
+   "Index": "7.094",
+   "Rank": "16"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2021,
+   "Index": "7.085",
+   "Rank": "15"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2022,
+   "Index": "7.041",
+   "Rank": "13"
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2023,
+   "Index": "6.911",
+   "Rank": "14"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2013,
+   "Index": "7.301",
+   "Rank": "11"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2015,
+   "Index": "7.278",
+   "Rank": "11"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2016,
+   "Index": "7.267",
+   "Rank": "11"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2017,
+   "Index": "7.213",
+   "Rank": "11"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2018,
+   "Index": "7.19",
+   "Rank": "11"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2019,
+   "Index": "7.139",
+   "Rank": "13"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2020,
+   "Index": "7.129",
+   "Rank": "14"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2021,
+   "Index": "7.157",
+   "Rank": "12"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2022,
+   "Index": "7.364",
+   "Rank": "9"
+ },
+ {
+   "Country": "Israel",
+   "Year": 2023,
+   "Index": "7.473",
+   "Rank": "4"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2013,
+   "Index": "6.021",
+   "Rank": "45"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2015,
+   "Index": "5.948",
+   "Rank": "50"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2016,
+   "Index": "5.977",
+   "Rank": "50"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2017,
+   "Index": "5.964",
+   "Rank": "48"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2018,
+   "Index": "6",
+   "Rank": "47"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2019,
+   "Index": "6.223",
+   "Rank": "36"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2020,
+   "Index": "6.387",
+   "Rank": "30"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2021,
+   "Index": "6.483",
+   "Rank": "28"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2022,
+   "Index": "6.467",
+   "Rank": "31"
+ },
+ {
+   "Country": "Italy",
+   "Year": 2023,
+   "Index": "6.405",
+   "Rank": "33"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2015,
+   "Index": "3.655",
+   "Rank": "151"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2016,
+   "Index": "3.916",
+   "Rank": "139"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2017,
+   "Index": "4.18",
+   "Rank": "128"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2018,
+   "Index": "4.671",
+   "Rank": "107"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2019,
+   "Index": "4.944",
+   "Rank": "99"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2020,
+   "Index": "5.233",
+   "Rank": "85"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2021,
+   "Index": "5.306",
+   "Rank": "85"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2022,
+   "Index": "5.235",
+   "Rank": "88"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Year": 2023,
+   "Index": "5.053",
+   "Rank": "93"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2013,
+   "Index": "5.374",
+   "Rank": "75"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2015,
+   "Index": "5.709",
+   "Rank": "65"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2016,
+   "Index": "5.51",
+   "Rank": "73"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2017,
+   "Index": "5.311",
+   "Rank": "76"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2018,
+   "Index": "5.89",
+   "Rank": "56"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2019,
+   "Index": "5.89",
+   "Rank": "56"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2020,
+   "Index": "5.89",
+   "Rank": "60"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2021,
+   "Index": "6.309",
+   "Rank": "37"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2022,
+   "Index": "5.85",
+   "Rank": "63"
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2023,
+   "Index": "5.703",
+   "Rank": "68"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2013,
+   "Index": "6.064",
+   "Rank": "43"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2015,
+   "Index": "5.987",
+   "Rank": "46"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2016,
+   "Index": "5.921",
+   "Rank": "53"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2017,
+   "Index": "5.92",
+   "Rank": "51"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2018,
+   "Index": "5.915",
+   "Rank": "54"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2019,
+   "Index": "5.886",
+   "Rank": "58"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2020,
+   "Index": "5.871",
+   "Rank": "62"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2021,
+   "Index": "5.94",
+   "Rank": "56"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2022,
+   "Index": "6.039",
+   "Rank": "54"
+ },
+ {
+   "Country": "Japan",
+   "Year": 2023,
+   "Index": "6.129",
+   "Rank": "47"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2013,
+   "Index": "5.414",
+   "Rank": "74"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2015,
+   "Index": "5.192",
+   "Rank": "82"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2016,
+   "Index": "5.303",
+   "Rank": "80"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2017,
+   "Index": "5.336",
+   "Rank": "74"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2018,
+   "Index": "5.161",
+   "Rank": "90"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2019,
+   "Index": "4.906",
+   "Rank": "101"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2020,
+   "Index": "4.633",
+   "Rank": "119"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2021,
+   "Index": "4.395",
+   "Rank": "127"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2022,
+   "Index": "4.152",
+   "Rank": "134"
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2023,
+   "Index": "4.12",
+   "Rank": "123"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2013,
+   "Index": "5.671",
+   "Rank": "57"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2015,
+   "Index": "5.855",
+   "Rank": "54"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2016,
+   "Index": "5.919",
+   "Rank": "54"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2017,
+   "Index": "5.819",
+   "Rank": "60"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2018,
+   "Index": "5.79",
+   "Rank": "60"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2019,
+   "Index": "5.809",
+   "Rank": "60"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2020,
+   "Index": "6.058",
+   "Rank": "50"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2021,
+   "Index": "6.152",
+   "Rank": "45"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2022,
+   "Index": "6.234",
+   "Rank": "40"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2023,
+   "Index": "6.144",
+   "Rank": "44"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2013,
+   "Index": "4.403",
+   "Rank": "123"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2015,
+   "Index": "4.419",
+   "Rank": "125"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2016,
+   "Index": "4.356",
+   "Rank": "122"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2017,
+   "Index": "4.553",
+   "Rank": "112"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2018,
+   "Index": "4.41",
+   "Rank": "124"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2019,
+   "Index": "4.509",
+   "Rank": "121"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2020,
+   "Index": "4.583",
+   "Rank": "121"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2021,
+   "Index": "4.607",
+   "Rank": "121"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2022,
+   "Index": "4.543",
+   "Rank": "119"
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2023,
+   "Index": "4.487",
+   "Rank": "111"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2013,
+   "Index": "5.222",
+   "Rank": "83"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2015,
+   "Index": "5.589",
+   "Rank": "69"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2016,
+   "Index": "5.401",
+   "Rank": "77"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2017,
+   "Index": "5.279",
+   "Rank": "78"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2018,
+   "Index": "5.662",
+   "Rank": "66"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2019,
+   "Index": "6.1",
+   "Rank": "46"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2020,
+   "Index": "6.325",
+   "Rank": "35"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2021,
+   "Index": "6.372",
+   "Rank": "33"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2022,
+   "Index": "6.455",
+   "Rank": "32"
+ },
+ {
+   "Country": "Kosovo",
+   "Year": 2023,
+   "Index": "6.368",
+   "Rank": "34"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2013,
+   "Index": "6.515",
+   "Rank": "32"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2015,
+   "Index": "6.295",
+   "Rank": "39"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2016,
+   "Index": "6.239",
+   "Rank": "41"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2017,
+   "Index": "6.105",
+   "Rank": "39"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2018,
+   "Index": "6.083",
+   "Rank": "45"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2019,
+   "Index": "6.021",
+   "Rank": "51"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2020,
+   "Index": "6.102",
+   "Rank": "48"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2021,
+   "Index": "6.106",
+   "Rank": "47"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2022,
+   "Index": "6.106",
+   "Rank": "50"
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2013,
+   "Index": "5.042",
+   "Rank": "89"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2015,
+   "Index": "5.286",
+   "Rank": "77"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2016,
+   "Index": "5.185",
+   "Rank": "85"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2017,
+   "Index": "5.004",
+   "Rank": "98"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2018,
+   "Index": "5.131",
+   "Rank": "92"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2019,
+   "Index": "5.261",
+   "Rank": "86"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2020,
+   "Index": "5.542",
+   "Rank": "74"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2021,
+   "Index": "5.744",
+   "Rank": "67"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2022,
+   "Index": "5.828",
+   "Rank": "64"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2023,
+   "Index": "5.825",
+   "Rank": "62"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2013,
+   "Index": "4.787",
+   "Rank": "109"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2015,
+   "Index": "4.876",
+   "Rank": "99"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2016,
+   "Index": "4.876",
+   "Rank": "102"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Laos",
+   "Year": 2018,
+   "Index": "4.623",
+   "Rank": "110"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2019,
+   "Index": "4.796",
+   "Rank": "105"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2020,
+   "Index": "4.889",
+   "Rank": "104"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2021,
+   "Index": "5.03",
+   "Rank": "100"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2022,
+   "Index": "5.14",
+   "Rank": "95"
+ },
+ {
+   "Country": "Laos",
+   "Year": 2023,
+   "Index": "5.111",
+   "Rank": "89"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2013,
+   "Index": "5.046",
+   "Rank": "88"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2015,
+   "Index": "5.098",
+   "Rank": "89"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2016,
+   "Index": "5.56",
+   "Rank": "68"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2017,
+   "Index": "5.85",
+   "Rank": "54"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2018,
+   "Index": "5.933",
+   "Rank": "53"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2019,
+   "Index": "5.94",
+   "Rank": "53"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2020,
+   "Index": "5.95",
+   "Rank": "57"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2021,
+   "Index": "6.032",
+   "Rank": "51"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2022,
+   "Index": "6.18",
+   "Rank": "42"
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2023,
+   "Index": "6.213",
+   "Rank": "41"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2013,
+   "Index": "4.931",
+   "Rank": "97"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2015,
+   "Index": "4.839",
+   "Rank": "103"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2016,
+   "Index": "5.129",
+   "Rank": "93"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2017,
+   "Index": "5.225",
+   "Rank": "88"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2018,
+   "Index": "5.199",
+   "Rank": "88"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2019,
+   "Index": "5.197",
+   "Rank": "91"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2020,
+   "Index": "4.772",
+   "Rank": "111"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2021,
+   "Index": "4.584",
+   "Rank": "123"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2022,
+   "Index": "2.955",
+   "Rank": "145"
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2023,
+   "Index": "2.392",
+   "Rank": "136"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2013,
+   "Index": "4.898",
+   "Rank": "98"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2015,
+   "Index": "4.898",
+   "Rank": "97"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2017,
+   "Index": "3.808",
+   "Rank": "139"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2018,
+   "Index": "3.808",
+   "Rank": "141"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2019,
+   "Index": "3.802",
+   "Rank": "144"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2020,
+   "Index": "3.653",
+   "Rank": "143"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2021,
+   "Index": "3.512",
+   "Rank": "145"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2022,
+   "Index": "3.512",
+   "Rank": "141"
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2013,
+   "Index": "4.196",
+   "Rank": "133"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2015,
+   "Index": "4.571",
+   "Rank": "116"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2016,
+   "Index": "3.622",
+   "Rank": "150"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2017,
+   "Index": "3.533",
+   "Rank": "148"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2018,
+   "Index": "3.495",
+   "Rank": "149"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2019,
+   "Index": "3.975",
+   "Rank": "141"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2020,
+   "Index": "4.558",
+   "Rank": "124"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2021,
+   "Index": "4.625",
+   "Rank": "120"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2022,
+   "Index": "5.122",
+   "Rank": "97"
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2023,
+   "Index": "4.042",
+   "Rank": "125"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2013,
+   "Index": "5.34",
+   "Rank": "78"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2015,
+   "Index": "5.754",
+   "Rank": "63"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2016,
+   "Index": "5.615",
+   "Rank": "67"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2017,
+   "Index": "5.525",
+   "Rank": "68"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2018,
+   "Index": "5.566",
+   "Rank": "70"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2019,
+   "Index": "5.525",
+   "Rank": "72"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2020,
+   "Index": "5.489",
+   "Rank": "80"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2021,
+   "Index": "5.41",
+   "Rank": "80"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2022,
+   "Index": "5.33",
+   "Rank": "86"
+ },
+ {
+   "Country": "Libya",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2013,
+   "Index": "5.426",
+   "Rank": "71"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2015,
+   "Index": "5.833",
+   "Rank": "56"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2016,
+   "Index": "5.813",
+   "Rank": "60"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2017,
+   "Index": "5.902",
+   "Rank": "52"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2018,
+   "Index": "5.952",
+   "Rank": "50"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2019,
+   "Index": "6.149",
+   "Rank": "42"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2020,
+   "Index": "6.215",
+   "Rank": "41"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2021,
+   "Index": "6.255",
+   "Rank": "38"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2022,
+   "Index": "6.446",
+   "Rank": "34"
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2023,
+   "Index": "6.763",
+   "Rank": "20"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2013,
+   "Index": "7.054",
+   "Rank": "19"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2015,
+   "Index": "6.946",
+   "Rank": "17"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2016,
+   "Index": "6.871",
+   "Rank": "20"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2017,
+   "Index": "6.863",
+   "Rank": "18"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2018,
+   "Index": "6.91",
+   "Rank": "17"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2019,
+   "Index": "7.09",
+   "Rank": "14"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2020,
+   "Index": "7.238",
+   "Rank": "10"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2021,
+   "Index": "7.324",
+   "Rank": "8"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2022,
+   "Index": "7.404",
+   "Rank": "6"
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2023,
+   "Index": "7.228",
+   "Rank": "9"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2013,
+   "Index": "3.966",
+   "Rank": "146"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2015,
+   "Index": "3.681",
+   "Rank": "147"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2016,
+   "Index": "3.695",
+   "Rank": "148"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2017,
+   "Index": "3.644",
+   "Rank": "144"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2018,
+   "Index": "3.774",
+   "Rank": "143"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2019,
+   "Index": "3.933",
+   "Rank": "143"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2020,
+   "Index": "4.166",
+   "Rank": "137"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2021,
+   "Index": "4.208",
+   "Rank": "135"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2022,
+   "Index": "4.339",
+   "Rank": "128"
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2023,
+   "Index": "4.019",
+   "Rank": "127"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2013,
+   "Index": "4.113",
+   "Rank": "139"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2015,
+   "Index": "4.292",
+   "Rank": "131"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2016,
+   "Index": "4.156",
+   "Rank": "132"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2017,
+   "Index": "3.97",
+   "Rank": "136"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2018,
+   "Index": "3.587",
+   "Rank": "147"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2019,
+   "Index": "3.41",
+   "Rank": "150"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2020,
+   "Index": "3.538",
+   "Rank": "145"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2021,
+   "Index": "3.6",
+   "Rank": "144"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2022,
+   "Index": "3.75",
+   "Rank": "138"
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2023,
+   "Index": "3.495",
+   "Rank": "131"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2013,
+   "Index": "5.76",
+   "Rank": "56"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2015,
+   "Index": "5.77",
+   "Rank": "61"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2016,
+   "Index": "6.005",
+   "Rank": "47"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2017,
+   "Index": "6.084",
+   "Rank": "42"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2018,
+   "Index": "6.322",
+   "Rank": "35"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2019,
+   "Index": "5.339",
+   "Rank": "80"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2020,
+   "Index": "5.384",
+   "Rank": "82"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2021,
+   "Index": "5.384",
+   "Rank": "81"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2022,
+   "Index": "5.711",
+   "Rank": "70"
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2023,
+   "Index": "6.012",
+   "Rank": "55"
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2020,
+   "Index": "5.198",
+   "Rank": "87"
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2021,
+   "Index": "5.198",
+   "Rank": "89"
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Mali",
+   "Year": 2013,
+   "Index": "4.247",
+   "Rank": "132"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2015,
+   "Index": "3.995",
+   "Rank": "138"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2016,
+   "Index": "4.073",
+   "Rank": "135"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2017,
+   "Index": "4.19",
+   "Rank": "127"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2018,
+   "Index": "4.447",
+   "Rank": "118"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2019,
+   "Index": "4.39",
+   "Rank": "128"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2020,
+   "Index": "4.729",
+   "Rank": "114"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2021,
+   "Index": "4.723",
+   "Rank": "117"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2022,
+   "Index": "4.479",
+   "Rank": "123"
+ },
+ {
+   "Country": "Mali",
+   "Year": 2023,
+   "Index": "4.198",
+   "Rank": "120"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2013,
+   "Index": "5.964",
+   "Rank": "48"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2015,
+   "Index": "6.302",
+   "Rank": "37"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2016,
+   "Index": "6.488",
+   "Rank": "30"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2017,
+   "Index": "6.527",
+   "Rank": "27"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2018,
+   "Index": "6.627",
+   "Rank": "22"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2019,
+   "Index": "6.726",
+   "Rank": "22"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2020,
+   "Index": "6.773",
+   "Rank": "22"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2021,
+   "Index": "6.602",
+   "Rank": "23"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2022,
+   "Index": "6.447",
+   "Rank": "33"
+ },
+ {
+   "Country": "Malta",
+   "Year": 2023,
+   "Index": "6.3",
+   "Rank": "37"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2013,
+   "Index": "4.758",
+   "Rank": "112"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2015,
+   "Index": "4.436",
+   "Rank": "124"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2016,
+   "Index": "4.201",
+   "Rank": "130"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2017,
+   "Index": "4.292",
+   "Rank": "123"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2018,
+   "Index": "4.356",
+   "Rank": "126"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2019,
+   "Index": "4.49",
+   "Rank": "122"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2020,
+   "Index": "4.375",
+   "Rank": "129"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2021,
+   "Index": "4.227",
+   "Rank": "134"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2022,
+   "Index": "4.153",
+   "Rank": "133"
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2023,
+   "Index": "4.724",
+   "Rank": "103"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2013,
+   "Index": "5.477",
+   "Rank": "67"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2015,
+   "Index": "5.477",
+   "Rank": "71"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2016,
+   "Index": "5.648",
+   "Rank": "66"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2017,
+   "Index": "5.629",
+   "Rank": "64"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2018,
+   "Index": "5.891",
+   "Rank": "55"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2019,
+   "Index": "5.888",
+   "Rank": "57"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2020,
+   "Index": "6.101",
+   "Rank": "49"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2021,
+   "Index": "6.049",
+   "Rank": "50"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2022,
+   "Index": "6.071",
+   "Rank": "52"
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2023,
+   "Index": "5.902",
+   "Rank": "59"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2013,
+   "Index": "7.088",
+   "Rank": "16"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2015,
+   "Index": "7.187",
+   "Rank": "14"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2016,
+   "Index": "6.778",
+   "Rank": "21"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2017,
+   "Index": "6.578",
+   "Rank": "25"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2018,
+   "Index": "6.488",
+   "Rank": "24"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2019,
+   "Index": "6.595",
+   "Rank": "23"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2020,
+   "Index": "6.465",
+   "Rank": "24"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2021,
+   "Index": "6.317",
+   "Rank": "36"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2022,
+   "Index": "6.128",
+   "Rank": "46"
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2023,
+   "Index": "6.33",
+   "Rank": "36"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2013,
+   "Index": "5.791",
+   "Rank": "53"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2015,
+   "Index": "5.889",
+   "Rank": "52"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2016,
+   "Index": "5.897",
+   "Rank": "55"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2017,
+   "Index": "5.838",
+   "Rank": "56"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2018,
+   "Index": "5.64",
+   "Rank": "67"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2019,
+   "Index": "5.529",
+   "Rank": "71"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2020,
+   "Index": "5.608",
+   "Rank": "70"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2021,
+   "Index": "5.766",
+   "Rank": "65"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2022,
+   "Index": "5.857",
+   "Rank": "62"
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2023,
+   "Index": "5.819",
+   "Rank": "63"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2013,
+   "Index": "4.834",
+   "Rank": "102"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2015,
+   "Index": "4.874",
+   "Rank": "100"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2016,
+   "Index": "4.907",
+   "Rank": "101"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2017,
+   "Index": "4.955",
+   "Rank": "100"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2018,
+   "Index": "5.125",
+   "Rank": "94"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2019,
+   "Index": "5.285",
+   "Rank": "83"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2020,
+   "Index": "5.456",
+   "Rank": "81"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2021,
+   "Index": "5.677",
+   "Rank": "70"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2022,
+   "Index": "5.761",
+   "Rank": "68"
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2023,
+   "Index": "5.84",
+   "Rank": "61"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2013,
+   "Index": "5.299",
+   "Rank": "80"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2015,
+   "Index": "5.192",
+   "Rank": "83"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2016,
+   "Index": "5.161",
+   "Rank": "88"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2017,
+   "Index": "5.237",
+   "Rank": "83"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2018,
+   "Index": "5.347",
+   "Rank": "81"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2019,
+   "Index": "5.523",
+   "Rank": "73"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2020,
+   "Index": "5.546",
+   "Rank": "72"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2021,
+   "Index": "5.581",
+   "Rank": "72"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2022,
+   "Index": "5.547",
+   "Rank": "75"
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2023,
+   "Index": "5.722",
+   "Rank": "67"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2013,
+   "Index": "4.885",
+   "Rank": "99"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2015,
+   "Index": "5.013",
+   "Rank": "92"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2016,
+   "Index": "5.151",
+   "Rank": "90"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2017,
+   "Index": "5.235",
+   "Rank": "84"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2018,
+   "Index": "5.254",
+   "Rank": "85"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2019,
+   "Index": "5.208",
+   "Rank": "89"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2020,
+   "Index": "5.095",
+   "Rank": "97"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2021,
+   "Index": "4.918",
+   "Rank": "106"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2022,
+   "Index": "5.06",
+   "Rank": "100"
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2023,
+   "Index": "4.903",
+   "Rank": "100"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2013,
+   "Index": "4.971",
+   "Rank": "94"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2015,
+   "Index": "4.971",
+   "Rank": "94"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2017,
+   "Index": "4.55",
+   "Rank": "113"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2018,
+   "Index": "4.417",
+   "Rank": "123"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2019,
+   "Index": "4.466",
+   "Rank": "123"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2020,
+   "Index": "4.624",
+   "Rank": "120"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2021,
+   "Index": "4.794",
+   "Rank": "115"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2022,
+   "Index": "5.048",
+   "Rank": "101"
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2023,
+   "Index": "4.954",
+   "Rank": "97"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2013,
+   "Index": "4.439",
+   "Rank": "121"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2015,
+   "Index": "4.307",
+   "Rank": "129"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2016,
+   "Index": "4.395",
+   "Rank": "119"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2017,
+   "Index": "4.545",
+   "Rank": "114"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2018,
+   "Index": "4.308",
+   "Rank": "130"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2019,
+   "Index": "4.36",
+   "Rank": "131"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2020,
+   "Index": "4.308",
+   "Rank": "133"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2021,
+   "Index": "4.426",
+   "Rank": "126"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2022,
+   "Index": "4.394",
+   "Rank": "126"
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2023,
+   "Index": "4.372",
+   "Rank": "117"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2016,
+   "Index": "4.574",
+   "Rank": "113"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2017,
+   "Index": "4.574",
+   "Rank": "111"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2018,
+   "Index": "4.441",
+   "Rank": "119"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2019,
+   "Index": "4.639",
+   "Rank": "113"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2020,
+   "Index": "4.571",
+   "Rank": "122"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2021,
+   "Index": "4.574",
+   "Rank": "124"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2022,
+   "Index": "4.459",
+   "Rank": "124"
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2023,
+   "Index": "4.631",
+   "Rank": "105"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2013,
+   "Index": "4.156",
+   "Rank": "135"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2015,
+   "Index": "4.514",
+   "Rank": "121"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2016,
+   "Index": "4.793",
+   "Rank": "107"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2017,
+   "Index": "4.962",
+   "Rank": "99"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2018,
+   "Index": "4.88",
+   "Rank": "101"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2019,
+   "Index": "4.913",
+   "Rank": "100"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2020,
+   "Index": "5.137",
+   "Rank": "92"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2021,
+   "Index": "5.269",
+   "Rank": "87"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2022,
+   "Index": "5.377",
+   "Rank": "84"
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2023,
+   "Index": "5.36",
+   "Rank": "78"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2013,
+   "Index": "7.512",
+   "Rank": "4"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2015,
+   "Index": "7.378",
+   "Rank": "7"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2016,
+   "Index": "7.339",
+   "Rank": "7"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2017,
+   "Index": "7.377",
+   "Rank": "6"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2018,
+   "Index": "7.441",
+   "Rank": "6"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2019,
+   "Index": "7.488",
+   "Rank": "5"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2020,
+   "Index": "7.449",
+   "Rank": "6"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2021,
+   "Index": "7.464",
+   "Rank": "5"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2022,
+   "Index": "7.415",
+   "Rank": "5"
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2023,
+   "Index": "7.403",
+   "Rank": "5"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2013,
+   "Index": "7.221",
+   "Rank": "13"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2015,
+   "Index": "7.286",
+   "Rank": "9"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2016,
+   "Index": "7.334",
+   "Rank": "8"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2017,
+   "Index": "7.314",
+   "Rank": "8"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2018,
+   "Index": "7.324",
+   "Rank": "8"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2019,
+   "Index": "7.307",
+   "Rank": "8"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2020,
+   "Index": "7.3",
+   "Rank": "8"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2021,
+   "Index": "7.277",
+   "Rank": "9"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2022,
+   "Index": "7.2",
+   "Rank": "10"
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2023,
+   "Index": "7.123",
+   "Rank": "10"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2013,
+   "Index": "5.507",
+   "Rank": "65"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2015,
+   "Index": "5.828",
+   "Rank": "57"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2016,
+   "Index": "5.992",
+   "Rank": "48"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2017,
+   "Index": "6.071",
+   "Rank": "43"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2018,
+   "Index": "6.141",
+   "Rank": "41"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2019,
+   "Index": "6.105",
+   "Rank": "45"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2020,
+   "Index": "6.137",
+   "Rank": "46"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2021,
+   "Index": "5.972",
+   "Rank": "55"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2022,
+   "Index": "6.165",
+   "Rank": "45"
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2023,
+   "Index": "6.259",
+   "Rank": "40"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2013,
+   "Index": "4.152",
+   "Rank": "136"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2015,
+   "Index": "3.845",
+   "Rank": "144"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2016,
+   "Index": "3.856",
+   "Rank": "142"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2017,
+   "Index": "4.028",
+   "Rank": "135"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2018,
+   "Index": "4.166",
+   "Rank": "134"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2019,
+   "Index": "4.628",
+   "Rank": "114"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2020,
+   "Index": "4.91",
+   "Rank": "103"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2021,
+   "Index": "5.074",
+   "Rank": "96"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2022,
+   "Index": "5.003",
+   "Rank": "104"
+ },
+ {
+   "Country": "Niger",
+   "Year": 2023,
+   "Index": "4.501",
+   "Rank": "109"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2013,
+   "Index": "5.248",
+   "Rank": "82"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2015,
+   "Index": "5.268",
+   "Rank": "78"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2016,
+   "Index": "4.875",
+   "Rank": "103"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2017,
+   "Index": "5.074",
+   "Rank": "95"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2018,
+   "Index": "5.155",
+   "Rank": "91"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2019,
+   "Index": "5.265",
+   "Rank": "85"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2020,
+   "Index": "4.724",
+   "Rank": "115"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2021,
+   "Index": "4.759",
+   "Rank": "116"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2022,
+   "Index": "4.552",
+   "Rank": "118"
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2023,
+   "Index": "4.981",
+   "Rank": "95"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2013,
+   "Index": "5.463",
+   "Rank": "69"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2015,
+   "Index": "5.695",
+   "Rank": "66"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2016,
+   "Index": "5.771",
+   "Rank": "62"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2017,
+   "Index": "5.81",
+   "Rank": "61"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2018,
+   "Index": "5.835",
+   "Rank": "58"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2019,
+   "Index": "5.718",
+   "Rank": "64"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2020,
+   "Index": "5.536",
+   "Rank": "76"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2021,
+   "Index": "5.536",
+   "Rank": "74"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2022,
+   "Index": "5.467",
+   "Rank": "79"
+ },
+ {
+   "Country": "North Cyprus",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2013,
+   "Index": "4.574",
+   "Rank": "118"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2015,
+   "Index": "5.007",
+   "Rank": "93"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2016,
+   "Index": "5.121",
+   "Rank": "95"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2017,
+   "Index": "5.175",
+   "Rank": "92"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2018,
+   "Index": "5.185",
+   "Rank": "89"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2019,
+   "Index": "5.274",
+   "Rank": "84"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2020,
+   "Index": "5.16",
+   "Rank": "90"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2021,
+   "Index": "5.101",
+   "Rank": "94"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2022,
+   "Index": "5.199",
+   "Rank": "89"
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2023,
+   "Index": "5.254",
+   "Rank": "87"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2013,
+   "Index": "7.655",
+   "Rank": "2"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2015,
+   "Index": "7.522",
+   "Rank": "4"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2016,
+   "Index": "7.498",
+   "Rank": "4"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2017,
+   "Index": "7.537",
+   "Rank": "1"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2018,
+   "Index": "7.594",
+   "Rank": "2"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2019,
+   "Index": "7.554",
+   "Rank": "3"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2020,
+   "Index": "7.488",
+   "Rank": "5"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2021,
+   "Index": "7.392",
+   "Rank": "6"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2022,
+   "Index": "7.365",
+   "Rank": "8"
+ },
+ {
+   "Country": "Norway",
+   "Year": 2023,
+   "Index": "7.315",
+   "Rank": "7"
+ },
+ {
+   "Country": "Oman",
+   "Year": 2013,
+   "Index": "6.853",
+   "Rank": "23"
+ },
+ {
+   "Country": "Oman",
+   "Year": 2015,
+   "Index": "6.853",
+   "Rank": "22"
+ },
+ {
+   "Country": "Oman",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Oman",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2013,
+   "Index": "5.292",
+   "Rank": "81"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2015,
+   "Index": "5.194",
+   "Rank": "81"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2016,
+   "Index": "5.132",
+   "Rank": "92"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2017,
+   "Index": "5.269",
+   "Rank": "80"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2018,
+   "Index": "5.472",
+   "Rank": "75"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2019,
+   "Index": "5.653",
+   "Rank": "67"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2020,
+   "Index": "5.693",
+   "Rank": "66"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2021,
+   "Index": "4.934",
+   "Rank": "105"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2022,
+   "Index": "4.516",
+   "Rank": "121"
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2023,
+   "Index": "4.555",
+   "Rank": "108"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2013,
+   "Index": "4.7",
+   "Rank": "113"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2015,
+   "Index": "4.715",
+   "Rank": "108"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2016,
+   "Index": "4.754",
+   "Rank": "108"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2017,
+   "Index": "4.775",
+   "Rank": "103"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2018,
+   "Index": "4.743",
+   "Rank": "104"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2019,
+   "Index": "4.696",
+   "Rank": "110"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2020,
+   "Index": "4.553",
+   "Rank": "125"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2021,
+   "Index": "4.517",
+   "Rank": "125"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2022,
+   "Index": "4.483",
+   "Rank": "122"
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2023,
+   "Index": "4.908",
+   "Rank": "99"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2013,
+   "Index": "7.143",
+   "Rank": "15"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2015,
+   "Index": "6.786",
+   "Rank": "25"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2016,
+   "Index": "6.701",
+   "Rank": "25"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2017,
+   "Index": "6.452",
+   "Rank": "30"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2018,
+   "Index": "6.43",
+   "Rank": "27"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2019,
+   "Index": "6.321",
+   "Rank": "31"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2020,
+   "Index": "6.305",
+   "Rank": "36"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2021,
+   "Index": "6.18",
+   "Rank": "41"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2022,
+   "Index": "6.309",
+   "Rank": "37"
+ },
+ {
+   "Country": "Panama",
+   "Year": 2023,
+   "Index": "6.265",
+   "Rank": "38"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2013,
+   "Index": "5.779",
+   "Rank": "54"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2015,
+   "Index": "5.878",
+   "Rank": "53"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2016,
+   "Index": "5.538",
+   "Rank": "70"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2017,
+   "Index": "5.493",
+   "Rank": "70"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2018,
+   "Index": "5.681",
+   "Rank": "64"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2019,
+   "Index": "5.743",
+   "Rank": "63"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2020,
+   "Index": "5.692",
+   "Rank": "67"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2021,
+   "Index": "5.653",
+   "Rank": "71"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2022,
+   "Index": "5.578",
+   "Rank": "73"
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2023,
+   "Index": "5.738",
+   "Rank": "66"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2013,
+   "Index": "5.776",
+   "Rank": "55"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2015,
+   "Index": "5.824",
+   "Rank": "58"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2016,
+   "Index": "5.743",
+   "Rank": "64"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2017,
+   "Index": "5.715",
+   "Rank": "63"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2018,
+   "Index": "5.663",
+   "Rank": "65"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2019,
+   "Index": "5.697",
+   "Rank": "65"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2020,
+   "Index": "5.797",
+   "Rank": "63"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2021,
+   "Index": "5.84",
+   "Rank": "63"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2022,
+   "Index": "5.559",
+   "Rank": "74"
+ },
+ {
+   "Country": "Peru",
+   "Year": 2023,
+   "Index": "5.526",
+   "Rank": "75"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2013,
+   "Index": "4.985",
+   "Rank": "92"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2015,
+   "Index": "5.073",
+   "Rank": "90"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2016,
+   "Index": "5.279",
+   "Rank": "82"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2017,
+   "Index": "5.43",
+   "Rank": "72"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2018,
+   "Index": "5.524",
+   "Rank": "71"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2019,
+   "Index": "5.631",
+   "Rank": "69"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2020,
+   "Index": "6.006",
+   "Rank": "52"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2021,
+   "Index": "5.88",
+   "Rank": "61"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2022,
+   "Index": "5.904",
+   "Rank": "60"
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2023,
+   "Index": "5.523",
+   "Rank": "76"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2013,
+   "Index": "5.822",
+   "Rank": "51"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2015,
+   "Index": "5.791",
+   "Rank": "60"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2016,
+   "Index": "5.835",
+   "Rank": "58"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2017,
+   "Index": "5.973",
+   "Rank": "46"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2018,
+   "Index": "6.123",
+   "Rank": "42"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2019,
+   "Index": "6.182",
+   "Rank": "40"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2020,
+   "Index": "6.186",
+   "Rank": "43"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2021,
+   "Index": "6.166",
+   "Rank": "44"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2022,
+   "Index": "6.123",
+   "Rank": "48"
+ },
+ {
+   "Country": "Poland",
+   "Year": 2023,
+   "Index": "6.26",
+   "Rank": "39"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2013,
+   "Index": "5.101",
+   "Rank": "85"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2015,
+   "Index": "5.102",
+   "Rank": "88"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2016,
+   "Index": "5.123",
+   "Rank": "94"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2017,
+   "Index": "5.195",
+   "Rank": "89"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2018,
+   "Index": "5.41",
+   "Rank": "77"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2019,
+   "Index": "5.693",
+   "Rank": "66"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2020,
+   "Index": "5.911",
+   "Rank": "59"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2021,
+   "Index": "5.929",
+   "Rank": "58"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2022,
+   "Index": "6.016",
+   "Rank": "56"
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2023,
+   "Index": "5.968",
+   "Rank": "56"
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2016,
+   "Index": "7.039",
+   "Rank": "15"
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2013,
+   "Index": "6.666",
+   "Rank": "27"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2015,
+   "Index": "6.611",
+   "Rank": "28"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2016,
+   "Index": "6.375",
+   "Rank": "36"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2017,
+   "Index": "6.375",
+   "Rank": "35"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2018,
+   "Index": "6.374",
+   "Rank": "32"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2019,
+   "Index": "6.374",
+   "Rank": "29"
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Romania",
+   "Year": 2013,
+   "Index": "5.033",
+   "Rank": "90"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2015,
+   "Index": "5.124",
+   "Rank": "86"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2016,
+   "Index": "5.528",
+   "Rank": "71"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2017,
+   "Index": "5.825",
+   "Rank": "57"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2018,
+   "Index": "5.945",
+   "Rank": "52"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2019,
+   "Index": "6.07",
+   "Rank": "48"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2020,
+   "Index": "6.124",
+   "Rank": "47"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2021,
+   "Index": "6.14",
+   "Rank": "46"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2022,
+   "Index": "6.477",
+   "Rank": "28"
+ },
+ {
+   "Country": "Romania",
+   "Year": 2023,
+   "Index": "5.689",
+   "Rank": "24"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2013,
+   "Index": "5.464",
+   "Rank": "68"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2015,
+   "Index": "5.716",
+   "Rank": "64"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2016,
+   "Index": "5.856",
+   "Rank": "56"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2017,
+   "Index": "5.963",
+   "Rank": "49"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2018,
+   "Index": "5.81",
+   "Rank": "59"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2019,
+   "Index": "5.648",
+   "Rank": "68"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2020,
+   "Index": "5.546",
+   "Rank": "73"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2021,
+   "Index": "5.477",
+   "Rank": "76"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2022,
+   "Index": "5.459",
+   "Rank": "80"
+ },
+ {
+   "Country": "Russia",
+   "Year": 2023,
+   "Index": "5.661",
+   "Rank": "70"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2013,
+   "Index": "3.715",
+   "Rank": "152"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2015,
+   "Index": "3.465",
+   "Rank": "154"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2016,
+   "Index": "3.515",
+   "Rank": "152"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2017,
+   "Index": "3.471",
+   "Rank": "151"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2018,
+   "Index": "3.408",
+   "Rank": "151"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2019,
+   "Index": "3.334",
+   "Rank": "152"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2020,
+   "Index": "3.312",
+   "Rank": "150"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2021,
+   "Index": "3.415",
+   "Rank": "147"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2022,
+   "Index": "3.268",
+   "Rank": "143"
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2013,
+   "Index": "6.48",
+   "Rank": "33"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2015,
+   "Index": "6.411",
+   "Rank": "35"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2016,
+   "Index": "6.379",
+   "Rank": "35"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2017,
+   "Index": "6.344",
+   "Rank": "37"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2018,
+   "Index": "6.371",
+   "Rank": "33"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2019,
+   "Index": "6.375",
+   "Rank": "28"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2020,
+   "Index": "6.406",
+   "Rank": "27"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2021,
+   "Index": "6.494",
+   "Rank": "26"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2022,
+   "Index": "6.523",
+   "Rank": "25"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2023,
+   "Index": "6.463",
+   "Rank": "30"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2013,
+   "Index": "3.959",
+   "Rank": "147"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2015,
+   "Index": "3.904",
+   "Rank": "142"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2016,
+   "Index": "4.219",
+   "Rank": "128"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2017,
+   "Index": "4.535",
+   "Rank": "115"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2018,
+   "Index": "4.631",
+   "Rank": "109"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2019,
+   "Index": "4.681",
+   "Rank": "111"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2020,
+   "Index": "4.981",
+   "Rank": "101"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2021,
+   "Index": "5.132",
+   "Rank": "92"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2022,
+   "Index": "5.046",
+   "Rank": "103"
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2023,
+   "Index": "4.855",
+   "Rank": "102"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2013,
+   "Index": "4.813",
+   "Rank": "106"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2015,
+   "Index": "5.123",
+   "Rank": "87"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2016,
+   "Index": "5.177",
+   "Rank": "86"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2017,
+   "Index": "5.395",
+   "Rank": "73"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2018,
+   "Index": "5.398",
+   "Rank": "78"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2019,
+   "Index": "5.603",
+   "Rank": "70"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2020,
+   "Index": "5.778",
+   "Rank": "64"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2021,
+   "Index": "6.078",
+   "Rank": "48"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2022,
+   "Index": "6.178",
+   "Rank": "43"
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2023,
+   "Index": "6.144",
+   "Rank": "45"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2013,
+   "Index": "4.318",
+   "Rank": "127"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2015,
+   "Index": "4.507",
+   "Rank": "123"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2016,
+   "Index": "4.635",
+   "Rank": "111"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2017,
+   "Index": "4.709",
+   "Rank": "106"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2018,
+   "Index": "4.571",
+   "Rank": "113"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2019,
+   "Index": "4.374",
+   "Rank": "129"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2020,
+   "Index": "3.926",
+   "Rank": "139"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2021,
+   "Index": "3.849",
+   "Rank": "138"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2022,
+   "Index": "3.574",
+   "Rank": "140"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2023,
+   "Index": "3.138",
+   "Rank": "135"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2013,
+   "Index": "6.546",
+   "Rank": "30"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2015,
+   "Index": "6.798",
+   "Rank": "24"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2016,
+   "Index": "6.739",
+   "Rank": "22"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2017,
+   "Index": "6.572",
+   "Rank": "26"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2018,
+   "Index": "6.343",
+   "Rank": "34"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2019,
+   "Index": "6.262",
+   "Rank": "34"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2020,
+   "Index": "6.377",
+   "Rank": "31"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2021,
+   "Index": "6.377",
+   "Rank": "32"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2022,
+   "Index": "6.48",
+   "Rank": "27"
+ },
+ {
+   "Country": "Singapore",
+   "Year": 2023,
+   "Index": "6.587",
+   "Rank": "25"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2013,
+   "Index": "5.969",
+   "Rank": "46"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2015,
+   "Index": "5.995",
+   "Rank": "45"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2016,
+   "Index": "6.078",
+   "Rank": "45"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2017,
+   "Index": "6.098",
+   "Rank": "40"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2018,
+   "Index": "6.173",
+   "Rank": "39"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2019,
+   "Index": "6.198",
+   "Rank": "38"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2020,
+   "Index": "6.281",
+   "Rank": "37"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2021,
+   "Index": "6.331",
+   "Rank": "34"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2022,
+   "Index": "6.391",
+   "Rank": "35"
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2023,
+   "Index": "6.469",
+   "Rank": "29"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2013,
+   "Index": "6.06",
+   "Rank": "44"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2015,
+   "Index": "5.848",
+   "Rank": "55"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2016,
+   "Index": "5.768",
+   "Rank": "63"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2017,
+   "Index": "5.758",
+   "Rank": "62"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2018,
+   "Index": "5.948",
+   "Rank": "51"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2019,
+   "Index": "6.118",
+   "Rank": "44"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2020,
+   "Index": "6.363",
+   "Rank": "33"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2021,
+   "Index": "6.461",
+   "Rank": "29"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2022,
+   "Index": "6.63",
+   "Rank": "22"
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2023,
+   "Index": "6.65",
+   "Rank": "22"
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2016,
+   "Index": "5.44",
+   "Rank": "76"
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2017,
+   "Index": "5.151",
+   "Rank": "93"
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2018,
+   "Index": "4.982",
+   "Rank": "98"
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2019,
+   "Index": "4.668",
+   "Rank": "112"
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2013,
+   "Index": "4.847",
+   "Rank": "101"
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2015,
+   "Index": "5.057",
+   "Rank": "91"
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2016,
+   "Index": "5.057",
+   "Rank": "97"
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Somaliland",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2013,
+   "Index": "4.963",
+   "Rank": "96"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2015,
+   "Index": "4.642",
+   "Rank": "113"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2016,
+   "Index": "4.459",
+   "Rank": "116"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2017,
+   "Index": "4.829",
+   "Rank": "101"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2018,
+   "Index": "4.724",
+   "Rank": "105"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2019,
+   "Index": "4.722",
+   "Rank": "106"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2020,
+   "Index": "4.814",
+   "Rank": "109"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2021,
+   "Index": "4.956",
+   "Rank": "103"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2022,
+   "Index": "5.194",
+   "Rank": "91"
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2023,
+   "Index": "5.275",
+   "Rank": "85"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2013,
+   "Index": "6.267",
+   "Rank": "41"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2015,
+   "Index": "5.984",
+   "Rank": "47"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2016,
+   "Index": "5.835",
+   "Rank": "57"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2017,
+   "Index": "5.838",
+   "Rank": "55"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2018,
+   "Index": "5.875",
+   "Rank": "57"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2019,
+   "Index": "5.895",
+   "Rank": "54"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2020,
+   "Index": "5.872",
+   "Rank": "61"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2021,
+   "Index": "5.845",
+   "Rank": "62"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2022,
+   "Index": "5.935",
+   "Rank": "59"
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2023,
+   "Index": "5.951",
+   "Rank": "57"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2013,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2015,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2016,
+   "Index": "3.832",
+   "Rank": "143"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2017,
+   "Index": "3.591",
+   "Rank": "147"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2018,
+   "Index": "3.254",
+   "Rank": "154"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2019,
+   "Index": "2.853",
+   "Rank": "156"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2020,
+   "Index": "2.817",
+   "Rank": "152"
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Spain",
+   "Year": 2013,
+   "Index": "6.322",
+   "Rank": "38"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2015,
+   "Index": "6.329",
+   "Rank": "36"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2016,
+   "Index": "6.361",
+   "Rank": "37"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2017,
+   "Index": "6.403",
+   "Rank": "34"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2018,
+   "Index": "6.31",
+   "Rank": "36"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2019,
+   "Index": "6.354",
+   "Rank": "30"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2020,
+   "Index": "6.401",
+   "Rank": "28"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2021,
+   "Index": "6.491",
+   "Rank": "27"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2022,
+   "Index": "6.476",
+   "Rank": "29"
+ },
+ {
+   "Country": "Spain",
+   "Year": 2023,
+   "Index": "6.436",
+   "Rank": "32"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2013,
+   "Index": "4.151",
+   "Rank": "137"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2015,
+   "Index": "4.271",
+   "Rank": "132"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2016,
+   "Index": "4.415",
+   "Rank": "117"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2017,
+   "Index": "4.44",
+   "Rank": "120"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2018,
+   "Index": "4.471",
+   "Rank": "116"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2019,
+   "Index": "4.366",
+   "Rank": "130"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2020,
+   "Index": "4.327",
+   "Rank": "130"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2021,
+   "Index": "4.325",
+   "Rank": "129"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2022,
+   "Index": "4.362",
+   "Rank": "127"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2023,
+   "Index": "4.442",
+   "Rank": "112"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2013,
+   "Index": "4.401",
+   "Rank": "124"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2015,
+   "Index": "4.55",
+   "Rank": "118"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2016,
+   "Index": "4.139",
+   "Rank": "133"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2017,
+   "Index": "4.139",
+   "Rank": "130"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2018,
+   "Index": "4.139",
+   "Rank": "137"
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2013,
+   "Index": "6.269",
+   "Rank": "40"
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2015,
+   "Index": "6.269",
+   "Rank": "40"
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2016,
+   "Index": "6.269",
+   "Rank": "40"
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2019,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2013,
+   "Index": "4.867",
+   "Rank": "100"
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2015,
+   "Index": "4.867",
+   "Rank": "101"
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2016,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2017,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2018,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2019,
+   "Index": "4.212",
+   "Rank": "135"
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2020,
+   "Index": "4.308",
+   "Rank": "132"
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2021,
+   "Index": "4.308",
+   "Rank": "130"
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Swaziland",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2013,
+   "Index": "7.48",
+   "Rank": "5"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2015,
+   "Index": "7.364",
+   "Rank": "8"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2016,
+   "Index": "7.291",
+   "Rank": "10"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2017,
+   "Index": "7.284",
+   "Rank": "10"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2018,
+   "Index": "7.314",
+   "Rank": "9"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2019,
+   "Index": "7.343",
+   "Rank": "7"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2020,
+   "Index": "7.353",
+   "Rank": "7"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2021,
+   "Index": "7.363",
+   "Rank": "7"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2022,
+   "Index": "7.384",
+   "Rank": "7"
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2023,
+   "Index": "7.395",
+   "Rank": "6"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2013,
+   "Index": "7.65",
+   "Rank": "3"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2015,
+   "Index": "7.587",
+   "Rank": "1"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2016,
+   "Index": "7.509",
+   "Rank": "2"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2017,
+   "Index": "7.494",
+   "Rank": "4"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2018,
+   "Index": "7.487",
+   "Rank": "5"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2019,
+   "Index": "7.48",
+   "Rank": "6"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2020,
+   "Index": "7.56",
+   "Rank": "3"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2021,
+   "Index": "7.571",
+   "Rank": "3"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2022,
+   "Index": "7.512",
+   "Rank": "4"
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2023,
+   "Index": "7.24",
+   "Rank": "8"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2013,
+   "Index": "3.892",
+   "Rank": "148"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2015,
+   "Index": "3.006",
+   "Rank": "156"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2016,
+   "Index": "3.069",
+   "Rank": "156"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2017,
+   "Index": "3.462",
+   "Rank": "152"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2018,
+   "Index": "3.462",
+   "Rank": "150"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2019,
+   "Index": "3.462",
+   "Rank": "149"
+ },
+ {
+   "Country": "Syria",
+   "Year": 2020,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Syria",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Syria",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Syria",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2013,
+   "Index": "6.221",
+   "Rank": "42"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2015,
+   "Index": "6.298",
+   "Rank": "38"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2016,
+   "Index": "6.379",
+   "Rank": "34"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2017,
+   "Index": "6.422",
+   "Rank": "33"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2018,
+   "Index": "6.441",
+   "Rank": "26"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2019,
+   "Index": "6.446",
+   "Rank": "25"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2020,
+   "Index": "6.455",
+   "Rank": "25"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2021,
+   "Index": "6.584",
+   "Rank": "24"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2022,
+   "Index": "6.512",
+   "Rank": "26"
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2023,
+   "Index": "6.535",
+   "Rank": "27"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2013,
+   "Index": "4.38",
+   "Rank": "125"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2015,
+   "Index": "4.786",
+   "Rank": "106"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2016,
+   "Index": "4.996",
+   "Rank": "100"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2017,
+   "Index": "5.041",
+   "Rank": "96"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2018,
+   "Index": "5.352",
+   "Rank": "80"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2019,
+   "Index": "5.467",
+   "Rank": "74"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2020,
+   "Index": "5.556",
+   "Rank": "71"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2021,
+   "Index": "5.466",
+   "Rank": "78"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2022,
+   "Index": "5.377",
+   "Rank": "83"
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2023,
+   "Index": "5.33",
+   "Rank": "80"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2013,
+   "Index": "3.77",
+   "Rank": "151"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2015,
+   "Index": "3.781",
+   "Rank": "146"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2016,
+   "Index": "3.666",
+   "Rank": "149"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2017,
+   "Index": "3.349",
+   "Rank": "153"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2018,
+   "Index": "3.303",
+   "Rank": "153"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2019,
+   "Index": "3.231",
+   "Rank": "153"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2020,
+   "Index": "3.476",
+   "Rank": "148"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2021,
+   "Index": "3.623",
+   "Rank": "142"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2022,
+   "Index": "3.702",
+   "Rank": "139"
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2023,
+   "Index": "3.694",
+   "Rank": "129"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2013,
+   "Index": "6.371",
+   "Rank": "36"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2015,
+   "Index": "6.455",
+   "Rank": "34"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2016,
+   "Index": "6.474",
+   "Rank": "33"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2017,
+   "Index": "6.424",
+   "Rank": "32"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2018,
+   "Index": "6.072",
+   "Rank": "46"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2019,
+   "Index": "6.008",
+   "Rank": "52"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2020,
+   "Index": "5.999",
+   "Rank": "54"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2021,
+   "Index": "5.985",
+   "Rank": "54"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2022,
+   "Index": "5.891",
+   "Rank": "61"
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2023,
+   "Index": "5.843",
+   "Rank": "60"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2013,
+   "Index": "2.936",
+   "Rank": "156"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2015,
+   "Index": "2.839",
+   "Rank": "158"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2016,
+   "Index": "3.303",
+   "Rank": "155"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2017,
+   "Index": "3.495",
+   "Rank": "150"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2018,
+   "Index": "3.999",
+   "Rank": "139"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2019,
+   "Index": "4.085",
+   "Rank": "139"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2020,
+   "Index": "4.187",
+   "Rank": "135"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2021,
+   "Index": "4.107",
+   "Rank": "136"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2022,
+   "Index": "4.112",
+   "Rank": "135"
+ },
+ {
+   "Country": "Togo",
+   "Year": 2023,
+   "Index": "4.137",
+   "Rank": "122"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2013,
+   "Index": "6.519",
+   "Rank": "31"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2015,
+   "Index": "6.168",
+   "Rank": "41"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2016,
+   "Index": "6.168",
+   "Rank": "43"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2017,
+   "Index": "6.168",
+   "Rank": "38"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2018,
+   "Index": "6.192",
+   "Rank": "38"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2019,
+   "Index": "6.192",
+   "Rank": "39"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2020,
+   "Index": "6.192",
+   "Rank": "42"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2021,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2022,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2013,
+   "Index": "4.826",
+   "Rank": "104"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2015,
+   "Index": "4.739",
+   "Rank": "107"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2016,
+   "Index": "5.045",
+   "Rank": "98"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2017,
+   "Index": "4.805",
+   "Rank": "102"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2018,
+   "Index": "4.592",
+   "Rank": "111"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2019,
+   "Index": "4.461",
+   "Rank": "124"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2020,
+   "Index": "4.392",
+   "Rank": "128"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2021,
+   "Index": "4.596",
+   "Rank": "122"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2022,
+   "Index": "4.516",
+   "Rank": "120"
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2023,
+   "Index": "4.497",
+   "Rank": "110"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2013,
+   "Index": "5.345",
+   "Rank": "77"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2015,
+   "Index": "5.332",
+   "Rank": "76"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2016,
+   "Index": "5.389",
+   "Rank": "78"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2017,
+   "Index": "5.5",
+   "Rank": "69"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2018,
+   "Index": "5.483",
+   "Rank": "74"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2019,
+   "Index": "5.373",
+   "Rank": "79"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2020,
+   "Index": "5.132",
+   "Rank": "93"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2021,
+   "Index": "4.948",
+   "Rank": "104"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2022,
+   "Index": "4.744",
+   "Rank": "112"
+ },
+ {
+   "Country": "Turkiye",
+   "Year": 2023,
+   "Index": "4.614",
+   "Rank": "106"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2013,
+   "Index": "5.628",
+   "Rank": "59"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2015,
+   "Index": "5.548",
+   "Rank": "70"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2016,
+   "Index": "5.658",
+   "Rank": "65"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2017,
+   "Index": "5.822",
+   "Rank": "59"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2018,
+   "Index": "5.636",
+   "Rank": "68"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2019,
+   "Index": "5.247",
+   "Rank": "87"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2020,
+   "Index": "5.119",
+   "Rank": "95"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2021,
+   "Index": "5.066",
+   "Rank": "97"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2022,
+   "Index": "5.474",
+   "Rank": "78"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2013,
+   "Index": "4.443",
+   "Rank": "120"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2015,
+   "Index": "3.931",
+   "Rank": "141"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2016,
+   "Index": "3.739",
+   "Rank": "145"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2017,
+   "Index": "4.081",
+   "Rank": "133"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2018,
+   "Index": "4.161",
+   "Rank": "135"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2019,
+   "Index": "4.189",
+   "Rank": "136"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2020,
+   "Index": "4.432",
+   "Rank": "126"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2021,
+   "Index": "4.636",
+   "Rank": "119"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2022,
+   "Index": "4.603",
+   "Rank": "117"
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2023,
+   "Index": "4.432",
+   "Rank": "113"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2013,
+   "Index": "5.057",
+   "Rank": "87"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2015,
+   "Index": "4.681",
+   "Rank": "111"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2016,
+   "Index": "4.324",
+   "Rank": "123"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2017,
+   "Index": "4.096",
+   "Rank": "132"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2018,
+   "Index": "4.103",
+   "Rank": "138"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2019,
+   "Index": "4.332",
+   "Rank": "133"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2020,
+   "Index": "4.561",
+   "Rank": "123"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2021,
+   "Index": "4.875",
+   "Rank": "110"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2022,
+   "Index": "5.084",
+   "Rank": "98"
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2023,
+   "Index": "5.071",
+   "Rank": "92"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2013,
+   "Index": "7.144",
+   "Rank": "14"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2015,
+   "Index": "6.901",
+   "Rank": "20"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2016,
+   "Index": "6.573",
+   "Rank": "28"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2017,
+   "Index": "6.648",
+   "Rank": "21"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2018,
+   "Index": "6.774",
+   "Rank": "20"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2019,
+   "Index": "6.825",
+   "Rank": "21"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2020,
+   "Index": "6.791",
+   "Rank": "21"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2021,
+   "Index": "6.561",
+   "Rank": "25"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2022,
+   "Index": "6.576",
+   "Rank": "24"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2023,
+   "Index": "6.571",
+   "Rank": "26"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2013,
+   "Index": "6.883",
+   "Rank": "22"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2015,
+   "Index": "6.867",
+   "Rank": "21"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2016,
+   "Index": "6.725",
+   "Rank": "23"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2017,
+   "Index": "6.714",
+   "Rank": "19"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2018,
+   "Index": "6.814",
+   "Rank": "19"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2019,
+   "Index": "7.054",
+   "Rank": "15"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2020,
+   "Index": "7.165",
+   "Rank": "13"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2021,
+   "Index": "7.064",
+   "Rank": "17"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2022,
+   "Index": "6.943",
+   "Rank": "17"
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2023,
+   "Index": "6.796",
+   "Rank": "19"
+ },
+ {
+   "Country": "United States",
+   "Year": 2013,
+   "Index": "7.082",
+   "Rank": "17"
+ },
+ {
+   "Country": "United States",
+   "Year": 2015,
+   "Index": "7.119",
+   "Rank": "15"
+ },
+ {
+   "Country": "United States",
+   "Year": 2016,
+   "Index": "7.104",
+   "Rank": "13"
+ },
+ {
+   "Country": "United States",
+   "Year": 2017,
+   "Index": "6.993",
+   "Rank": "14"
+ },
+ {
+   "Country": "United States",
+   "Year": 2018,
+   "Index": "6.886",
+   "Rank": "18"
+ },
+ {
+   "Country": "United States",
+   "Year": 2019,
+   "Index": "6.892",
+   "Rank": "19"
+ },
+ {
+   "Country": "United States",
+   "Year": 2020,
+   "Index": "6.94",
+   "Rank": "18"
+ },
+ {
+   "Country": "United States",
+   "Year": 2021,
+   "Index": "6.951",
+   "Rank": "19"
+ },
+ {
+   "Country": "United States",
+   "Year": 2022,
+   "Index": "6.977",
+   "Rank": "16"
+ },
+ {
+   "Country": "United States",
+   "Year": 2023,
+   "Index": "6.894",
+   "Rank": "15"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2013,
+   "Index": "6.355",
+   "Rank": "37"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2015,
+   "Index": "6.485",
+   "Rank": "32"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2016,
+   "Index": "6.545",
+   "Rank": "29"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2017,
+   "Index": "6.454",
+   "Rank": "28"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2018,
+   "Index": "6.379",
+   "Rank": "31"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2019,
+   "Index": "6.293",
+   "Rank": "33"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2020,
+   "Index": "6.44",
+   "Rank": "26"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2021,
+   "Index": "6.431",
+   "Rank": "31"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2022,
+   "Index": "6.474",
+   "Rank": "30"
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2023,
+   "Index": "6.494",
+   "Rank": "28"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2013,
+   "Index": "5.623",
+   "Rank": "60"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2015,
+   "Index": "6.003",
+   "Rank": "44"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2016,
+   "Index": "5.987",
+   "Rank": "49"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2017,
+   "Index": "5.971",
+   "Rank": "47"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2018,
+   "Index": "6.096",
+   "Rank": "44"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2019,
+   "Index": "6.174",
+   "Rank": "41"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2020,
+   "Index": "6.258",
+   "Rank": "38"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2021,
+   "Index": "6.179",
+   "Rank": "42"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2022,
+   "Index": "6.063",
+   "Rank": "53"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2023,
+   "Index": "6.014",
+   "Rank": "54"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2013,
+   "Index": "7.039",
+   "Rank": "20"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2015,
+   "Index": "6.81",
+   "Rank": "23"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2016,
+   "Index": "6.084",
+   "Rank": "44"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2017,
+   "Index": "5.25",
+   "Rank": "82"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2018,
+   "Index": "4.806",
+   "Rank": "102"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2019,
+   "Index": "4.707",
+   "Rank": "108"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2020,
+   "Index": "5.053",
+   "Rank": "99"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2021,
+   "Index": "4.892",
+   "Rank": "107"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2022,
+   "Index": "4.925",
+   "Rank": "108"
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2023,
+   "Index": "5.211",
+   "Rank": "88"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2013,
+   "Index": "5.533",
+   "Rank": "63"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2015,
+   "Index": "5.36",
+   "Rank": "75"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2016,
+   "Index": "5.061",
+   "Rank": "96"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2017,
+   "Index": "5.074",
+   "Rank": "94"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2018,
+   "Index": "5.103",
+   "Rank": "95"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2019,
+   "Index": "5.175",
+   "Rank": "94"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2020,
+   "Index": "5.353",
+   "Rank": "83"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2021,
+   "Index": "5.411",
+   "Rank": "79"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2022,
+   "Index": "5.485",
+   "Rank": "77"
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2023,
+   "Index": "5.763",
+   "Rank": "65"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2013,
+   "Index": "4.054",
+   "Rank": "142"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2015,
+   "Index": "4.077",
+   "Rank": "136"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2016,
+   "Index": "3.724",
+   "Rank": "147"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2017,
+   "Index": "3.593",
+   "Rank": "146"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2018,
+   "Index": "3.355",
+   "Rank": "152"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2019,
+   "Index": "3.38",
+   "Rank": "151"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2020,
+   "Index": "3.527",
+   "Rank": "146"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2021,
+   "Index": "3.658",
+   "Rank": "141"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2022,
+   "Index": "4.197",
+   "Rank": "132"
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2023,
+   "Index": null,
+   "Rank": null
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2013,
+   "Index": "5.006",
+   "Rank": "91"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2015,
+   "Index": "5.129",
+   "Rank": "85"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2016,
+   "Index": "4.795",
+   "Rank": "106"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2017,
+   "Index": "4.514",
+   "Rank": "116"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2018,
+   "Index": "4.377",
+   "Rank": "125"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2019,
+   "Index": "4.107",
+   "Rank": "138"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2020,
+   "Index": "3.759",
+   "Rank": "141"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2021,
+   "Index": "4.073",
+   "Rank": "137"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2022,
+   "Index": "3.76",
+   "Rank": "137"
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2023,
+   "Index": "3.982",
+   "Rank": "128"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2013,
+   "Index": "4.827",
+   "Rank": "103"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2015,
+   "Index": "4.61",
+   "Rank": "115"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2016,
+   "Index": "4.193",
+   "Rank": "131"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2017,
+   "Index": "3.875",
+   "Rank": "138"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2018,
+   "Index": "3.692",
+   "Rank": "144"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2019,
+   "Index": "3.663",
+   "Rank": "146"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2020,
+   "Index": "3.299",
+   "Rank": "151"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2021,
+   "Index": "3.145",
+   "Rank": "148"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2022,
+   "Index": "2.995",
+   "Rank": "144"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2023,
+   "Index": "3.204",
+   "Rank": "134"
+ }
+]

@@ -9,27 +9,42 @@ h1 {
   color: rgb(38, 90, 99);
 }
 
-.halfMil {
+.one {
   fill: rgb(205, 221, 228);
   background-color: rgb(234, 241, 244);
 }
 
-.oneMil {
-  fill: rgb(196, 227, 240);
+.two {
+  fill: rgb(174, 195, 204);
+  background-color: rgb(234, 241, 244);
+}
+
+.three {
+  fill: rgb(166, 184, 193);
+  background-color: rgb(234, 241, 244);
+}
+
+.four {
+  fill: rgb(111, 156, 175);
   background-color: rgb(196, 227, 240);
 }
 
-.twentyFiveMil {
-  fill: rgb(138, 210, 240);
+.five {
+  fill: rgb(111, 156, 175);
+  background-color: rgb(196, 227, 240);
+}
+
+.six {
+  fill: rgb(76, 129, 152);
   background-color: rgb(138, 210, 240);
 }
 
-.fiftyMil {
-  fill: rgb(55, 180, 233);
+.seven {
+  fill: rgb(36, 82, 101);
   background-color: rgb(55, 180, 233);
 }
 
-.hunMil {
+.eight {
   fill: rgb(34, 114, 176);
   background-color: rgb(34, 114, 176);
 }
@@ -72,15 +87,10 @@ body {
 
 #legend {
   display: grid;
-  grid-template-columns: repeat(6, 100px);
+  grid-template-columns: repeat(9, 60px);
   grid-template-rows: repeat(2, 15px);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-}
-
-#legend div {
-  height: 15px;
-  width: 100px;
 }
 
 #legend div:hover {

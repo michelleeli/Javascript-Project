@@ -1,6 +1,8 @@
-import data from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/air-passengers-carried.json';
+import data from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/World Happiness Index by Reports 2013-2023 with nulls.json';
+import bargraph from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/bargraph.js'
 
 document.addEventListener("DOMContentLoaded", async () => {
+
 
 const slider = document.getElementById("slider")
 const paths = document.querySelectorAll('path');
@@ -10,7 +12,7 @@ const legend = document.getElementById("legend");
 
   
   function createLegend() {
-    ["none", "halfMil", "oneMil", "twentyFiveMil", "fiftyMil", "hunMil"].forEach (dataClass => {
+    ["none", "one", "two", "three", "four", "five", "six", "seven", "eight"].forEach (dataClass => {
       const cell = document.createElement("div");
       cell.classList.add(dataClass)
       legend.appendChild(cell);
@@ -18,45 +20,49 @@ const legend = document.getElementById("legend");
   }
 createLegend();
 
-function createMarkers () {
-  ["No data", "50000", "1 million", "25 million", "50 million", "100 million"].forEach (marker => {
-    let cell = document.createElement("div");
-    cell.classList.add("markers")
-    cell.innerText = marker
-    legend.appendChild(cell);
-  })
-}
+// function createMarkers () {
+//   ["No data", "1", "2" ,"3" ,"4" ,"5" ,"6", "7","8"].forEach (marker => {
+//     let cell = document.createElement("div");
+//     cell.classList.add("markers")
+//     cell.innerText = marker
+//     legend.appendChild(cell);
+//   })
+// }
 
-createMarkers()
+// createMarkers()
 
-  function getPassengers(countryName) {
+  function getIndex(countryName) {
     let currentyear = slider.value
     for (let i = 0; i < data.length; i ++) {
-      if (data[i]['Entity'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
-        return (data[i]['Air transport, passengers carried'] / 1000000).toFixed(2);
+      if (data[i]['Country'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
+        return (data[i]['Index']);
       }
     }
   }
 
 function updatePath() {
   paths.forEach (path => {
-    path.classList.remove("halfMil")
-    path.classList.remove("oneMil")
-    path.classList.remove("twentyFiveMil")
-    path.classList.remove("fiftyMil")
-    path.classList.remove("none")
+    ["none", "one", "two", "three" ,"four" ,"five" ,"six" ,"seven", "eight"].forEach (el => {
+      path.classList.remove(el)
+    })
 
-    let pass = getPassengers(path.getAttribute("title"))
-    if (pass > 0 && pass < 0.5) {
-      path.classList.add("halfMil")
-    } else if (pass >= 0.5 && pass < 1) {
-      path.classList.add("oneMil")
-    } else if (pass >= 1 && pass < 25) {
-      path.classList.add("twentyFiveMil")
-    } else if (pass >= 25 && pass < 50) {
-      path.classList.add("fiftyMil")
-    } else if (pass >= 50) {
-      path.classList.add("hunMil")
+    let index = getIndex(path.getAttribute("title"))
+    if (index >= 1 && index < 2) {
+      path.classList.add("one")
+    } else if (index >= 1 && index < 2) {
+      path.classList.add("two")
+    } else if (index >= 2 && index < 3) {
+      path.classList.add("three")
+    } else if (index >= 4 && index < 5) {
+      path.classList.add("four")
+    } else if (index >= 4 && index < 5) {
+      path.classList.add("five")
+    } else if (index >= 5 && index < 6) {
+      path.classList.add("six")    
+    } else if (index >= 6 && index < 7) {
+      path.classList.add("seven")
+    } else if (index >= 7 && index < 8) {
+      path.classList.add("eight")
     } else {
       path.classList.add("none")
     }
@@ -73,8 +79,8 @@ updatePath();
       let y = event.clientY; 
       // let centerX = rect.left + rect.width / 2;
       // let centerY = rect.top + rect.height / 2;
-      if (getPassengers(countryName)) {
-        popup.innerHTML = `<p>Country:${countryName}</p><p>Passengers: ${getPassengers(countryName)}million</p>`;
+      if (getIndex(countryName)) {
+        popup.innerHTML = `<p>Country:${countryName}</p><p>Index: ${getIndex(countryName)}</p>`;
       } else {
         popup.innerHTML = `<p>Country:${countryName}<p><p> No data </p>`
       }
@@ -153,5 +159,6 @@ updatePath();
 
   slider.addEventListener('input', updatePath)
   slider.addEventListener('input', updatevalue)
-  
+
+
 });
