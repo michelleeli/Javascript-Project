@@ -1,5 +1,6 @@
 import data from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/World Happiness Index by Reports 2013-2023 with nulls.json';
 import bargraph from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/bargraph.js'
+// import modal from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/modal.js'
 
 document.addEventListener("DOMContentLoaded", async () => {
 
