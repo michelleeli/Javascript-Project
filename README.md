@@ -117,5 +117,5 @@ In Smile Map, users will be able to:
     - Style page with same theme for all segments
 - Wednesday: 
     - Create buttons for developer links and modal information
--Thursday Morning: 
-    -Finish production ReadMe
+- Thursday Morning: 
+    - Finish production ReadMe
