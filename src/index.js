@@ -32,16 +32,6 @@ createLegend();
   legendmarkers.appendChild(tick)
 })
 
-// function createMarkers () {
-//   ["No data", "1", "2" ,"3" ,"4" ,"5" ,"6", "7","8"].forEach (marker => {
-//     let marker = document.createElement("li");
-//     marker.innerText = marker;
-//     legendmarkers.appendChild(marker);
-//   })
-// }
-
-// createMarkers()
-
   function getIndex(countryName) {
     let currentyear = slider.value
     for (let i = 0; i < data.length; i ++) {
@@ -59,15 +49,6 @@ createLegend();
       }
     }
   }
-
-  // function getRanking(countryName) {
-  //   let currentyear = slider.value
-  //   for (let i = 0; i < data.length; i ++) {
-  //     if (data[i]['Country'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
-  //       return (data[i]['Index']);
-  //     }
-  //   }
-  // }
 
 function updatePath() {
   paths.forEach (path => {
@@ -147,26 +128,9 @@ updatePath();
     })
   })
 
-
-  // function addPin(event) {
-  //   let path = event.target
-  //   console.log(path)
-
-  //   const img = document.createElement('img')
-  //   img.src = "/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/58889219bc2fc2ef3a1860aa.png"
-  //   document.querySelector('#map-container').append(img)
-  //   const rect = event.target.getBoundingClientRect();
-  //   let centerX = rect.left + rect.width / 2;
-  //   let centerY = rect.top + rect.height / 2;
-  //   img.style.left = centerX + 'px';
-  //   img.style.top = centerY + 'px';
-  //   img.style.zIndex = 100;
-  // }
-
   paths.forEach(path => {
     path.addEventListener('mouseover', createPopup)
     path.addEventListener('mouseover', hoverLegend)
-    // path.addEventListener('click', addPin)
 
     path.addEventListener('mouseout', function() {
       popup.style.display = 'none';

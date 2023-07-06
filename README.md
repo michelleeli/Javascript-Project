@@ -1,6 +1,8 @@
 ## Background
 Smile Map is a data visualization project reporting data by The World Happiness Report via 2D chloropleth map, bar graph, and polar area chart. The World Happiness Report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. This project allows for the visual categorization of this data via region, year, and factors affecting happiness. 
 
+ <a href="https://michelleeli.github.io/Smile-Map/">Live Link!</a>
+
 ## Functionality & MVPs
 In Smile Map, users will be able to:
 - View color coordinated data on a 2d map chloropleth
