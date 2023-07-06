@@ -1,6 +1,8 @@
 import data from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/World Happiness Index by Reports 2013-2023 with nulls.json';
 import bargraph from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/bargraph.js'
 import modal from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/modal.js'
+import circlegraph from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/circlegraph.js'
+import description from '/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/scripts/description.js'
 
 document.addEventListener("DOMContentLoaded", async () => {
 
@@ -10,6 +12,9 @@ const paths = document.querySelectorAll('path');
 const popup = document.getElementById('popup');
 const valueDisplay = document.getElementById("valuedisplay")
 const legend = document.getElementById("legend");  
+const icon1 = document.getElementById("openmodal")
+const icon2 = document.getElementById("github")
+
 
   
   function createLegend() {
@@ -21,12 +26,17 @@ const legend = document.getElementById("legend");
   }
 createLegend();
 
+["No data", "1", "2" ,"3" ,"4" ,"5" ,"6", "7","8"].forEach (marker => {
+  let tick = document.createElement("li");
+  tick.innerText = marker
+  legendmarkers.appendChild(tick)
+})
+
 // function createMarkers () {
 //   ["No data", "1", "2" ,"3" ,"4" ,"5" ,"6", "7","8"].forEach (marker => {
-//     let cell = document.createElement("div");
-//     cell.classList.add("markers")
-//     cell.innerText = marker
-//     legend.appendChild(cell);
+//     let marker = document.createElement("li");
+//     marker.innerText = marker;
+//     legendmarkers.appendChild(marker);
 //   })
 // }
 
@@ -36,10 +46,28 @@ createLegend();
     let currentyear = slider.value
     for (let i = 0; i < data.length; i ++) {
       if (data[i]['Country'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
-        return (data[i]['Index']);
+        return data[i]['Index'];
       }
     }
   }
+
+  function getRank(countryName) {
+    let currentyear = slider.value
+    for (let i = 0; i < data.length; i ++) {
+      if (data[i]['Country'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
+        return data[i]['Rank'];
+      }
+    }
+  }
+
+  // function getRanking(countryName) {
+  //   let currentyear = slider.value
+  //   for (let i = 0; i < data.length; i ++) {
+  //     if (data[i]['Country'] === countryName && data[i]['Year'] === parseInt(currentyear)) {
+  //       return (data[i]['Index']);
+  //     }
+  //   }
+  // }
 
 function updatePath() {
   paths.forEach (path => {
@@ -81,9 +109,9 @@ updatePath();
       // let centerX = rect.left + rect.width / 2;
       // let centerY = rect.top + rect.height / 2;
       if (getIndex(countryName)) {
-        popup.innerHTML = `<p>Country:${countryName}</p><p>Index: ${getIndex(countryName)}</p>`;
+        popup.innerHTML = `<p> <b>Country: </b>${countryName}</p><p><b>Index:</b> ${getIndex(countryName)}</p> <b>Rank:</b> ${getRank(countryName)}`;
       } else {
-        popup.innerHTML = `<p>Country:${countryName}<p><p> No data </p>`
+        popup.innerHTML = `<p><b>Country:${countryName}</b><p><p> No data </p>`
       }
       popup.style.display = 'block';
       popup.style.left = x + 'px';
@@ -158,8 +186,24 @@ updatePath();
   }
   updatevalue()
 
+  function flipIcon(e) {
+    e.target.src = "/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/assets/smile.png"
+  }
+
+  function flipBackModal(e) {
+      e.target.src = "/Users/michelleli/Downloads/icons8-info-52.png"
+  }
+
+  function flipBackGit(e) {
+    e.target.src = "/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/styles/github-mark.png"
+  }
+
   slider.addEventListener('input', updatePath)
   slider.addEventListener('input', updatevalue)
 
+  icon1.addEventListener('mouseover', flipIcon)
+  icon1.addEventListener('mouseout', flipBackModal)
 
+  icon2.addEventListener('mouseover', flipIcon)
+  icon2.addEventListener('mouseout', flipBackGit)
 });

@@ -56,73 +56,93 @@ table {
 }
 
 h1 {
-  font-family: "Sofia", sans-serif;
+  font-family: "Belanosima", sans-serif;
   text-align: center;
   font-size: 50px;
-  font-weight: 700;
-  color: rgb(38, 90, 99);
+  color: #AF3E4D;
+  padding-top: 30px;
+}
+
+h2 {
+  font-family: "Belanosima", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  transform: translateY(-50px);
+  color: #AF3E4D;
+}
+
+h3 {
+  font-size: 30px;
+  color: #AF3E4D;
+  transform: translateY(100px) translateX(30px);
 }
 
 .one {
-  fill: rgba(189, 169, 50, 0.2);
-  background-color: rgba(189, 169, 50, 0.2);
+  fill: #F5CAC3;
+  background-color: #F5CAC3;
 }
 
 .two {
-  fill: rgba(255, 159, 64, 0.2);
-  background-color: rgba(255, 159, 64, 0.2);
+  fill: #ebaea4;
+  background-color: #ebaea4;
 }
 
 .three {
-  fill: rgba(255, 205, 86, 0.2);
-  background-color: rgba(255, 205, 86, 0.2);
+  fill: #f19b9a;
+  background-color: #f19b9a;
 }
 
 .four {
-  fill: rgba(75, 192, 192, 0.2);
-  background-color: rgba(75, 192, 192, 0.2);
+  fill: #e68381;
+  background-color: #e68381;
 }
 
 .five {
-  fill: rgba(54, 162, 235, 0.2);
-  background-color: rgba(54, 162, 235, 0.2);
+  fill: #df716f;
+  background-color: #df716f;
 }
 
 .six {
-  fill: rgba(153, 102, 255, 0.2);
-  background-color: rgba(153, 102, 255, 0.2);
+  fill: #c85e6c;
+  background-color: #c85e6c;
 }
 
 .seven {
-  fill: rgb(183, 219, 224);
-  background-color: rgb(183, 219, 224);
+  fill: #b64b59;
+  background-color: #b64b59;
 }
 
 .eight {
-  fill: rgba(255, 99, 132, 0.2);
-  background-color: rgba(255, 99, 132, 0.2);
+  fill: #b13849;
+  background-color: #b13849;
 }
 
 .none {
-  fill: rgba(201, 203, 207, 0.2);
-  background-color: rgba(201, 203, 207, 0.2);
+  fill: #F6BD60;
+  background-color: #F6BD60;
 }
 
 path {
-  stroke: rgb(186, 184, 184);
+  fill: #F5CAC3;
+  stroke: grey;
 }
 
 path:hover {
-  filter: drop-shadow(3px 5px 2px rgba(0, 0, 0, 0.5));
+  filter: drop-shadow(3px 5px 2px rgba(63, 62, 62, 0.5));
 }
 
 svg {
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 0;
-  border: 1px solid white;
-  border-radius: 15;
+  border-radius: 20px;
   padding: 10px;
   transform: translateX(-130px) scale(0.7);
   z-index: 10;
+}
+
+body {
+  background-color: #F7EDE2;
+  font-family: "Sen", sans-serif;
 }
 
 #popup {
@@ -132,15 +152,17 @@ svg {
   background-color: #f2eaf4;
   border: 1px solid #ccc;
   border-radius: 5%;
-  font-family: Arial, sans-serif;
+  font-family: "Sen", sans-serif;
   font-size: 12px;
   z-index: 9999;
+  line-height: 1.2;
 }
 
 #legend {
+  transform: translateX(40px);
   display: grid;
-  grid-template-columns: repeat(9, 60px);
-  grid-template-rows: repeat(2, 15px);
+  grid-template-columns: repeat(9, 67px);
+  grid-template-rows: repeat(2, 18px);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
@@ -148,6 +170,12 @@ svg {
 #legend div:hover {
   border: 3px solid grey;
   z-index: 10;
+}
+
+#legendmarkers {
+  display: flex;
+  justify-content: space-evenly;
+  transform: translateX(-2px) translateY(-15px);
 }
 
 .hovered {
@@ -168,17 +196,22 @@ svg {
 #slider {
   -webkit-appearance: none;
   border-radius: 10px;
-  width: 500px;
+  width: 600px;
   height: 7px;
-  background: rgb(192, 221, 255);
+  background: #F6BD60;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
 }
 
 #slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  background: rgb(88, 108, 158);
-  width: 15px;
-  height: 15px;
+  background: url("../assets/smile.png");
+  width: 33px;
+  height: 33px;
+  cursor: grab;
   border-radius: 100px;
 }
 
@@ -192,38 +225,70 @@ svg {
 }
 
 .mapDiv {
-  width: 800px;
+  width: 760px;
 }
 
 #chart {
-  height: 800px;
-  width: 600px;
   transform: translateY(200px);
+  color: rgba(255, 255, 255, 0.7);
+  scale: 0.9;
 }
 
 .mapfeatures {
-  transform: translateY(-100px);
+  padding: 10px;
+  transform: translateY(-100px) translateX(22px);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 700px;
+}
+
+.container {
+  border-radius: 20px;
+  width: 650px;
+  height: 600px;
+  margin-top: 103px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+#icons img {
+  display: block;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+#icons {
+  display: flex;
+  justify-content: right;
+  margin-right: 60px;
 }
 
 .modal {
-  display: block; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 10; /* Sit on top */
+  display: block;
+  position: fixed;
+  z-index: 10;
   left: 0;
   top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0, 0, 0); /* Fallback color */
-  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+  overflow: auto;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 #modalcontent {
   background-color: #fefefe;
-  margin: 15% auto; /* 15% from the top and centered */
+  border-radius: 20px;
+  margin: 15% auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 50%; /* Could be more or less, depending on screen size */
+  width: 50%;
+  line-height: 1.6;
+}
+
+#modalcontent li {
+  list-style-type: square url("/Users/michelleli/Downloads/icons8-slightly-smiling-face-64.png");
 }
 
 #close {
@@ -238,4 +303,92 @@ svg {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+.circlecontainer {
+  display: flex;
+  transform: translateX(22px);
+}
+
+#circlegraph {
+  width: 550px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  margin-top: -30px;
+  transform: translateY(28px) translateX(60px);
+}
+
+#doughnut {
+  transform: translateY(300px);
+}
+
+#info {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 550px;
+  border-radius: 10px;
+  transform: translateX(60px) translateY(35px);
+  padding: 10px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.tabs {
+  margin-top: 30px;
+  overflow: hidden;
+  border: 1px solid #AF3E4D;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  grid-template-rows: repeat(2, 50px);
+  width: 600px;
+}
+
+button {
+  background-color: inherit;
+  border: none;
+  outline: 0.5px solid #AF3E4D;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-family: "Sen", sans-serif;
+}
+
+button:nth-child(odd) {
+  background-color: #F7EDE2;
+}
+
+button:nth-child(even) {
+  background-color: #F5CAC3;
+}
+
+button:hover {
+  background-color: #F6BD60;
+}
+
+.description {
+  width: 560px;
+  padding: 20px;
+  border-top: none;
+  line-height: 1.6;
+  height: 400px;
+  border: 1px solid #AF3E4D;
+}
+
+#selector {
+  height: 30px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+}
+
+#label {
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 600px;
+  padding: 20px;
+  border-radius: 20px;
+  transform: translateX(22px);
+  overflow: hidden;
 }
