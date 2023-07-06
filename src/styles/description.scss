@@ -7,7 +7,7 @@
     // background-color: #f1f1f1;
     display: grid;
     grid-template-columns: repeat(3, 200px);
-    grid-template-rows: repeat(2, 50px);
+    grid-template-rows: repeat(2, 60px);
     width: 600px;
 }
 
@@ -17,29 +17,28 @@ button {
     border: none;
     outline: 0.5px solid #AF3E4D;
     cursor: pointer;
-    padding: 14px 16px;
     transition: 0.3s;
     font-family: 'Sen', sans-serif;
+    font-size: 15px;
 }
 
+#active{
+    background-color: #AF3E4D;
+    color: white;
+}
+
+
 button:nth-child(odd) {
-    background-color: #F7EDE2;
+    background-color: #F6BD60;
 }
 
 button:nth-child(even) {
     background-color: #F5CAC3;
 }
 
-// button:nth-child(3) {
-//     background-color: #F7EDE2;
-// }
-
-// button:nth-child(4) {
-//     background-color: #F7EDE2;
-// }
-
 button:hover {
-    background-color: #F6BD60;
+    background-color: #AF3E4D;
+    color: white;
 }
 
 .description {
@@ -48,7 +47,7 @@ button:hover {
     padding: 20px;
     border-top:none;
     line-height: 1.6;
-    height: 400px;
+    height: 370px;
     border: 1px solid #AF3E4D;    
 }
 
@@ -59,8 +58,6 @@ button:hover {
     text-align: center;
     font-family: 'Sen', sans-serif;
 }
-
-
 
 #label {
     background-color: rgba(255, 255, 255, 0.7);

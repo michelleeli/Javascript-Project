@@ -264,6 +264,14 @@ body {
   margin-right: 60px;
 }
 
+h4 {
+  display: none;
+  font-family: "Sen", sans-serif;
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+
 .modal {
   display: block;
   position: fixed;
@@ -329,8 +337,9 @@ body {
   border-radius: 10px;
   transform: translateX(60px) translateY(35px);
   padding: 10px;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.6;
+  color: #AF3E4D;
 }
 
 .tabs {
@@ -341,7 +350,7 @@ body {
   border-top-right-radius: 15px;
   display: grid;
   grid-template-columns: repeat(3, 200px);
-  grid-template-rows: repeat(2, 50px);
+  grid-template-rows: repeat(2, 60px);
   width: 600px;
 }
 
@@ -350,13 +359,18 @@ button {
   border: none;
   outline: 0.5px solid #AF3E4D;
   cursor: pointer;
-  padding: 14px 16px;
   transition: 0.3s;
   font-family: "Sen", sans-serif;
+  font-size: 15px;
+}
+
+#active {
+  background-color: #AF3E4D;
+  color: white;
 }
 
 button:nth-child(odd) {
-  background-color: #F7EDE2;
+  background-color: #F6BD60;
 }
 
 button:nth-child(even) {
@@ -364,7 +378,8 @@ button:nth-child(even) {
 }
 
 button:hover {
-  background-color: #F6BD60;
+  background-color: #AF3E4D;
+  color: white;
 }
 
 .description {
@@ -372,7 +387,7 @@ button:hover {
   padding: 20px;
   border-top: none;
   line-height: 1.6;
-  height: 400px;
+  height: 370px;
   border: 1px solid #AF3E4D;
 }
 

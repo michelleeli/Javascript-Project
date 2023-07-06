@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         datasets:[{
             data: [0.919, 0.8, 0.137, 0.689],
             borderWidth: 1,
-            backgroundColor: ['rgba(246, 189, 96, 0.7)', 'rgba(247, 237, 226, 0.7)', 'rgba(245, 202, 195, 0.7)', 'rgba(175, 62, 77, 0.7)', 'rgba(242, 132, 130, 0.7)']
+            backgroundColor: ['rgba(246, 189, 96, 0.85)', 'rgba(247, 237, 226, 0.7)', 'rgba(245, 202, 195, 0.85)', 'rgba(175, 62, 77, 0.85)', 'rgba(242, 132, 130, 0.85)']
         }]
     },
     options: {}
