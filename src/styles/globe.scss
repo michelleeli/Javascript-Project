@@ -226,9 +226,13 @@ body {
 }
 
 h4 {
-    display: none;
+    display: block;
     font-family: 'Sen', sans-serif;
     width: 1200px;
     text-align: center;
-    margin:auto
+    margin:auto;
+    line-height: 1.4;
+    transform: translateY(40px);
+    color: #b64b59;
+    font-size: 19px;
 }

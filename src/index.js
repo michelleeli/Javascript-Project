@@ -101,15 +101,13 @@ updatePath();
 
   function createPopup(event) {
       const countryName = event.target.getAttribute('title');
-      // const rect = event.target.getBoundingClientRect();
       let x = event.clientX;  
       let y = event.clientY; 
-      // let centerX = rect.left + rect.width / 2;
-      // let centerY = rect.top + rect.height / 2;
+
       if (getIndex(countryName)) {
-        popup.innerHTML = `<p> <b>Country: </b>${countryName}</p><p><b>Index:</b> ${getIndex(countryName)}</p> <b>Rank:</b> ${getRank(countryName)}`;
+        popup.innerHTML = `<p> Country: ${countryName}</p><p>Index: ${getIndex(countryName)}</p> Rank: ${getRank(countryName)}`;
       } else {
-        popup.innerHTML = `<p><b>Country:${countryName}</b><p><p> No data </p>`
+        popup.innerHTML = `<p>Country:${countryName}<p><p> No data </p>`
       }
       popup.style.display = 'block';
       popup.style.left = x + 'px';

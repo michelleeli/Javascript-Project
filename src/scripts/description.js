@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", async () => {
     const tabs = document.querySelector('.tabs')
     const description = document.querySelector('.description')
+    
 
     const titles = ["Social Support", "Freedom to Make Life Choices", "Generosity", "Perceptions of Corruption", "Healthy Life Expectancy", "Logged GDP per capita"]
     titles.forEach (tabtitle => {
@@ -14,7 +15,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     function updateTab(e) {
         // e.target.id = "active"
         if (e.target.innerText === "Social Support") {
+            // let title = document.createElement('h3')
+            // title.innerText = "Social Support"
             description.innerText = "Social support, or having someone to count on in times of trouble. \n \n 'If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not?'"
+            // description.prepend(title)
         } else if (e.target.innerText === "Freedom to Make Life Choices") {
             description.innerText = '"Are you satisfied or dissatisfied with your freedom to choose what you do with your life?" \n \n This also includes Human Rights. Inherent to all human beings, regardless of race, sex, nationality, ethnicity, language, religion, or any other status. Human rights include the right to life and liberty, freedom from slavery and torture, freedom of opinion and expression, the right to work and education, and many more. Everyone is entitled to these rights without discrimination."'
         } else if (e.target.innerText === "Generosity") {
@@ -29,7 +33,5 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     tabs.addEventListener('click', updateTab)
-
-    // description.innerText = "It has been over ten years since the first World Happiness Report was published. And it is exactly ten years since the United Nations General Assembly adopted Resolution 66/281, proclaiming 20 March to be observed annually as International Day of Happiness. Since then, more and more people have come to believe that our success as countries should be judged by the happiness of our people. There is also a growing consensus about how happiness should be measured. This consensus means that national happiness can now become an operational objective for governments. "
 
 })
