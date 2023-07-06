@@ -14,6 +14,7 @@ const valueDisplay = document.getElementById("valuedisplay")
 const legend = document.getElementById("legend");  
 const icon1 = document.getElementById("openmodal")
 const icon2 = document.getElementById("github")
+const icon3 = document.getElementById('infoicon')
 
 
   
@@ -188,6 +189,11 @@ updatePath();
     e.target.src = "./assets/smile.png"
   }
 
+  function flipBackMore(e) {
+    e.target.src = "./assets/icons8-plus-60.png"
+  }
+
+
   function flipBackModal(e) {
       e.target.src = "./assets/icons8-info-52.png"
   }
@@ -204,4 +210,8 @@ updatePath();
 
   icon2.addEventListener('mouseover', flipIcon)
   icon2.addEventListener('mouseout', flipBackGit)
+
+  icon3.addEventListener('mouseover', flipIcon)
+  icon3.addEventListener('mouseout', flipBackMore)
+
 });
