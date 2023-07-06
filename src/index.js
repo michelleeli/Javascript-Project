@@ -185,15 +185,15 @@ updatePath();
   updatevalue()
 
   function flipIcon(e) {
-    e.target.src = "/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/assets/smile.png"
+    e.target.src = "./assets/smile.png"
   }
 
   function flipBackModal(e) {
-      e.target.src = "/Users/michelleli/Downloads/icons8-info-52.png"
+      e.target.src = "./assets/icons8-info-52.png"
   }
 
   function flipBackGit(e) {
-    e.target.src = "/Users/michelleli/Downloads/APP ACADEMY/JS PROJECT/src/styles/github-mark.png"
+    e.target.src = "./assets/github-mark.png"
   }
 
   slider.addEventListener('input', updatePath)
