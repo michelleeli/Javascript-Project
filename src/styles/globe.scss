@@ -115,9 +115,9 @@ body {
 }
 
 #legend {
-    transform: translateX(40px);
+    transform: translateX(76px);
     display: grid;
-    grid-template-columns: repeat(9, 67px);
+    grid-template-columns: repeat(9, 74px);
     grid-template-rows: repeat(2, 18px);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
@@ -135,8 +135,8 @@ body {
 
 #legendmarkers {
     display: flex;
-    justify-content: space-evenly;
-    transform: translateX(-2px) translateY(-15px);
+    justify-content: space-around;
+    transform: translateX(-5px) translateY(-15px);
 }
 
 .hovered {

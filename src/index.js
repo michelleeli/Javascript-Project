@@ -18,7 +18,7 @@ const icon2 = document.getElementById("github")
 
   
   function createLegend() {
-    ["none", "one", "two", "three", "four", "five", "six", "seven", "eight"].forEach (dataClass => {
+    ["none", "one", "two", "three", "four", "five", "six", "seven"].forEach (dataClass => {
       const cell = document.createElement("div");
       cell.classList.add(dataClass)
       legend.appendChild(cell);
@@ -84,14 +84,12 @@ function updatePath() {
       path.classList.add("three")
     } else if (index >= 4 && index < 5) {
       path.classList.add("four")
-    } else if (index >= 4 && index < 5) {
-      path.classList.add("five")
-    } else if (index >= 5 && index < 6) {
-      path.classList.add("six")    
+    }  else if (index >= 5 && index < 6) {
+      path.classList.add("five")    
     } else if (index >= 6 && index < 7) {
-      path.classList.add("seven")
+      path.classList.add("six")
     } else if (index >= 7 && index < 8) {
-      path.classList.add("eight")
+      path.classList.add("seven")
     } else {
       path.classList.add("none")
     }
