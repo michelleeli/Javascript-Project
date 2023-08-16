@@ -5,7 +5,7 @@ Smile Map is a data visualization project reporting data by The World Happiness 
 
 ## Functionality & MVPs
 In Smile Map, users will be able to:
-- View color coordinated data on a 2d map chloropleth
+- View color coordinated data on a 2d map choropleth
 - Hover over a country for a popup including its ranking and happiness index
     - Data from local JSON file is parsed to fetch data on individual regions to create a popup event when hovered over. The data is based on the value of the year on the slider and the country hovered over
 ``` 
