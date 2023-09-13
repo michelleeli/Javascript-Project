@@ -1,7 +1,6 @@
 import circledata from '../styles/WHR2023.json'
 
 document.addEventListener("DOMContentLoaded", async () => {
-    console.log(circledata)
     const circle = document.getElementById('circlegraph').getContext('2d');
     const countries = circledata.map(function(e) {return e.Country})
     const social = circledata.map(function(e) {return e.Social})
