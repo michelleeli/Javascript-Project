@@ -83,8 +83,8 @@ updatePath();
   function createPopup(event) {
       const countryName = event.target.getAttribute('title');
       let x = event.clientX;  
-      let y = event.clientY; 
-
+      let scroll = window.scrollY
+      let y = event.clientY + scroll; 
       if (getIndex(countryName)) {
         popup.innerHTML = `<p> Country: ${countryName}</p><p>Index: ${getIndex(countryName)}</p> Rank: ${getRank(countryName)}`;
       } else {
